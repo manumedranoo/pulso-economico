@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-26T21:02:53+00:00",
+ "actualizado": "2026-11-26T22:02:52+00:00",
  "noticias": [
+  {
+   "titulo": "Feijóo, sorprendido de que Sánchez felicite a De Cos cuando le \"criticaba tanto\" mientras era gobernador",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-feijoo-sorprendido-sanchez-felicite-cos-cuando-le-criticaba-tanto-mientras-era-gobernador-20261126224952.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-26T21:49:52+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126224952_120.jpg"
+  },
+  {
+   "titulo": "Illa pide directivos “comprometidos” y los empresarios, menos impuestos",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/26/illa-pide-directivos-comprometidos-empresarios-impuestos.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T21:20:07+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957279943105.jpg"
+  },
   {
    "titulo": "Toyota supera los 300 millones en España con su negocio de carretillas",
    "enlace": "https://www.expansion.com/catalunya/2026/11/26/toyota-supera-300-millones-espana-negocio-carretillas.html",
@@ -522,24 +540,6 @@
    "seccion": "Mercados",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956835828740.jpg"
-  },
-  {
-   "titulo": "Isidro Fainé deja la presidencia de la Fundación CEDE en manos de Ramon Adell",
-   "enlace": "https://elpais.com/economia/2026-11-26/isidro-faine-deja-la-presidencia-de-la-fundacion-cede-en-manos-de-ramon-adell.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T08:52:04+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/7J2Q4IL2CNLEJGIT3WMOGMPX5Y.jpg?auth=45f8f96e29ad4dbd3a70dae856cdd52ac41201fdf7a84e642ce0cdb932c1d3b0"
-  },
-  {
-   "titulo": "Fainé deja la presidencia de la Fundación CEDE y será relevado por Ramón Adell",
-   "enlace": "https://www.europapress.es/economia/noticia-faine-deja-presidencia-fundacion-cede-sera-relevado-ramon-adell-20261126093315.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T08:33:15+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126093315_120.jpg"
   }
  ],
  "cambio": {
