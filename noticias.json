@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-26T22:02:52+00:00",
+ "actualizado": "2026-11-26T23:05:58+00:00",
  "noticias": [
+  {
+   "titulo": "Los sindicatos temen el despido de los 659 empleados de Plus Ultra y el cierre de la aerolínea",
+   "enlace": "https://www.expansion.com/empresas/transporte/2026/11/26/sindicatos-temen-despido-659-empleados-plus-ultra-cierre-aerolinea.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T22:51:08+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17949603589197.jpg"
+  },
+  {
+   "titulo": "Sánchez tacha de \"cuento\" las dudas de Feijóo sobre las cuentas: \"No busque excusas para hacer recortes\"",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-tacha-cuento-dudas-feijoo-cuentas-no-busque-excusas-hacer-recortes-20261126234146.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-26T22:41:46+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126234146_120.jpg"
+  },
+  {
+   "titulo": "Sánchez y Colau alertan contra la \"motosierra\" de Vox y las \"tijeras\" del PP",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-colau-alertan-contra-motosierra-vox-tijeras-pp-20261126231502.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-26T22:15:02+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126231502_120.jpg"
+  },
   {
    "titulo": "Feijóo, sorprendido de que Sánchez felicite a De Cos cuando le \"criticaba tanto\" mientras era gobernador",
    "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-feijoo-sorprendido-sanchez-felicite-cos-cuando-le-criticaba-tanto-mientras-era-gobernador-20261126224952.html",
@@ -263,15 +290,6 @@
    "imagen": "https://imagenes.elpais.com/resizer/v2/RQVIHMQQH5BTJJH7QZACQCBMGI.jpg?auth=808d75c5cad258267ef19f4267e0700c994b650fd47bcce326978fdfe8ce6fb2"
   },
   {
-   "titulo": "Convocadas 14.373 plazas de empleo público: requisitos, plazos y cómo solicitarlas",
-   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-convocadas-14373-plazas-empleo-publico-requisitos-plazos-solicitarlas-20261126144804.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T13:48:04+00:00",
-   "seccion": "Macroeconomía",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126144804_120.jpg"
-  },
-  {
    "titulo": "Los directivos españoles, a tres días de las elecciones: más Europa y menos impuestos",
    "enlace": "https://elpais.com/economia/2026-11-26/los-directivos-espanoles-a-tres-dias-de-las-elecciones-mas-europa-y-menos-impuestos.html",
    "fuente": "Cinco Días",
@@ -443,15 +461,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956946016469.jpg"
   },
   {
-   "titulo": "Dividendos del Ibex 35 en Navidad: cuánto pagan Sabadell, Mapfre, IAG, y Unicaja, fechas clave y cómo cobrarlos",
-   "enlace": "https://www.europapress.es/economia/noticia-dividendos-ibex-35-navidad-cuanto-paga-sabadell-mapfre-iag-unicaja-fechas-clave-cobrarlos-20261126122609.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T11:26:09+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126122609_120.jpg"
-  },
-  {
    "titulo": "UniCredit propone a Orcel como nuevo presidente del Consejo de Supervisión de Commerzbank",
    "enlace": "https://elpais.com/economia/2026-11-26/unicredit-propone-a-orcel-como-nuevo-presidente-del-consejo-de-supervision-de-commerzbank.html",
    "fuente": "Cinco Días",
@@ -531,15 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/VMX7G423RFOA5HKOQW3YJBT73A.jpg?auth=91e18fac78692b1807030dc10eb5e276821e7c1b9a473984262b9ab3bbcdea70"
-  },
-  {
-   "titulo": "Nvidia rebota desde su suporte de largo plazo",
-   "enlace": "https://www.expansion.com/mercados/2026/11/26/nvidia-rebota-suporte-plazo.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T08:59:58+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956835828740.jpg"
   }
  ],
  "cambio": {
