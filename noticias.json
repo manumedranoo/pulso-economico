@@ -1,14 +1,6 @@
 {
- "actualizado": "2026-11-26T20:10:47+00:00",
+ "actualizado": "2026-11-26T20:11:39+00:00",
  "noticias": [
-  {
-   "titulo": "Debate electoral 29-N a cuatro, en directo | Sánchez llega a los estudios donde se celebra el debate y ya están los cuatro candidatos",
-   "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-26/debate-electoral-29-n-a-cuatro-entre-sanchez-feijoo-abascal-y-colau-en-directo.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T20:00:00+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
   {
    "titulo": "Acciona estudia integrar su filial energética tras no encontrar comprador",
    "enlace": "https://www.expansion.com/empresas/2026/11/26/acciona-estudia-integrar-filial-energetica-encontrar-comprador.html",
@@ -18,19 +10,11 @@
    "subseccion": null
   },
   {
-   "titulo": "Nuevos auriculares FiiO JD1 GAMING USB-C: cómodos, con sonido Hi-Res y a gran precio",
-   "enlace": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-26/fiio-jd1-gaming-usb-c-auriculares-caracteristicas.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T19:00:00+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
    "titulo": "Los sindicatos temen un cierre exprés de Plus Ultra ante las dificultades para encontrar un comprador",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/los-sindicatos-temen-un-cierre-expres-de-plus-ultra-ante-las-dificultades-para-encontrar-un-comprador.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T18:42:02+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -58,19 +42,11 @@
    "subseccion": null
   },
   {
-   "titulo": "Ir al servicio técnico para arreglar el móvil es historia: Samsung supera las 50.000 reparaciones a domicilio",
-   "enlace": "https://cincodias.elpais.com/smartlife/smartphones/2026-11-26/reparacion-movil-pasado-samsung-50000-domicilio.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T18:00:00+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
    "titulo": "La mitad de los pilotos en España cree que sus aerolíneas no se preocupan por su estado emocional",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/la-mitad-de-los-pilotos-en-espana-cree-que-sus-aerolineas-no-se-preocupan-por-su-estado-emocional.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T17:57:14+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -94,7 +70,7 @@
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/sacyr-gana-una-concesion-ferroviaria-de-2800-millones-de-inversion-en-la-alta-velocidad-lisboa-oporto.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T17:25:35+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -126,7 +102,7 @@
    "enlace": "https://www.expansion.com/empresas/energia/2026/11/26/repsol-eni-invertiran-1-800-millones-proximos-cinco-anos-venezuela.html",
    "fuente": "Expansión",
    "fecha": "2026-11-26T16:59:27+00:00",
-   "seccion": "Empresas",
+   "seccion": "Internacional",
    "subseccion": null
   },
   {
@@ -134,14 +110,6 @@
    "enlace": "https://www.expansion.com/empresas/energia/2026/11/26/s-p-ratifica-rating-bbb-iberdrola.html",
    "fuente": "Expansión",
    "fecha": "2026-11-26T16:56:34+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable"
-  },
-  {
-   "titulo": "El Ibex borra las pérdidas de la víspera y firma su mejor sesión desde las elecciones de EE UU",
-   "enlace": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/la-bolsa-y-el-ibex-35.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T16:48:09+00:00",
    "seccion": "Mercados",
    "subseccion": "Renta variable"
   },
@@ -158,7 +126,7 @@
    "enlace": "https://www.expansion.com/economia/financial-times/2026/11/26/paris-berlin-quieren-blindar-presupuesto-europeo-frente-marine-le-pen.html",
    "fuente": "Expansión",
    "fecha": "2026-11-26T16:22:53+00:00",
-   "seccion": "España",
+   "seccion": "Internacional",
    "subseccion": null
   },
   {
@@ -167,14 +135,6 @@
    "fuente": "Europa Press",
    "fecha": "2026-11-26T16:06:46+00:00",
    "seccion": "Macroeconomía",
-   "subseccion": null
-  },
-  {
-   "titulo": "Apple prepara una revolución para sus MacBook Air con un nuevo diseño y pantalla OLED",
-   "enlace": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-26/apple-prepara-una-revolucion-para-sus-macbook-air-con-un-nuevo-diseno-y-pantalla-oled.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T16:00:48+00:00",
-   "seccion": "España",
    "subseccion": null
   },
   {
@@ -218,14 +178,6 @@
    "subseccion": null
   },
   {
-   "titulo": "Vox propone un recorte del gasto público de las dimensiones de la motosierra de Milei",
-   "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-26/vox-propone-un-recorte-del-gasto-publico-de-las-dimensiones-de-la-motosierra-de-milei.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T14:33:42+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
    "titulo": "La aviación, entre la irrupción de China y nueva inversión en los aeropuertos españoles",
    "enlace": "https://www.expansion.com/catalunya/2026/11/26/aviacion-irrupcion-china-nueva-inversion-aeropuertos-espanoles.html",
    "fuente": "Expansión",
@@ -266,6 +218,14 @@
    "subseccion": null
   },
   {
+   "titulo": "Los directivos españoles, a tres días de las elecciones: más Europa y menos impuestos",
+   "enlace": "https://elpais.com/economia/2026-11-26/los-directivos-espanoles-a-tres-dias-de-las-elecciones-mas-europa-y-menos-impuestos.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-26T13:45:44+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
    "titulo": "De cómo Pablo ha ganado por goleada",
    "enlace": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
    "fuente": "Cinco Días",
@@ -278,7 +238,7 @@
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/altria-estudia-lanzar-una-oferta-para-comprar-imperial-brands-duena-de-altadis.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T13:38:19+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -314,14 +274,6 @@
    "subseccion": null
   },
   {
-   "titulo": "Renta 4 sufre un hackeo que expone datos personales de sus clientes",
-   "enlace": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/renta-4-sufre-un-hackeo-que-expone-datos-personales-de-sus-clientes.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:14:08+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
    "titulo": "El Euríbor hoy encadena dos bajadas, pero tu hipoteca ya no se libra: así cerrará el año",
    "enlace": "https://www.expansion.com/mercados/euribor/2026/11/26/euribor-hoy-encadena-dos-bajadas-hipoteca-libra-asi-cerrara-ano.html",
    "fuente": "Expansión",
@@ -350,7 +302,7 @@
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/digi-lidera-la-captacion-de-clientes-pero-sufre-el-mayor-indice-de-fugas-entre-operadoras.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T12:54:52+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -358,7 +310,7 @@
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/el-gobierno-de-navarra-se-opone-a-la-opa-sobre-el-100-del-capital-de-azkoyen.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T12:49:13+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -367,14 +319,6 @@
    "fuente": "Expansión",
    "fecha": "2026-11-26T12:37:14+00:00",
    "seccion": "Empresas",
-   "subseccion": null
-  },
-  {
-   "titulo": "El Congreso convalida más decretos sociales con subidas salariales a los funcionarios y exención fiscal al SMI",
-   "enlace": "https://elpais.com/espana/2026-11-26/el-congreso-convalida-mas-decretos-sociales-con-subidas-salariales-a-los-funcionarios-y-mejoras-fiscales.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T12:36:06+00:00",
-   "seccion": "España",
    "subseccion": null
   },
   {
@@ -414,7 +358,7 @@
    "enlace": "https://cincodias.elpais.com/companias/2026-11-26/bayer-pagara-hasta-3000-millones-por-un-prometedor-farmaco-chino-contra-el-cancer.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T12:07:47+00:00",
-   "seccion": "España",
+   "seccion": "Empresas",
    "subseccion": null
   },
   {
@@ -423,14 +367,6 @@
    "fuente": "Expansión",
    "fecha": "2026-11-26T12:03:35+00:00",
    "seccion": "Internacional",
-   "subseccion": null
-  },
-  {
-   "titulo": "Casi la mitad del PIB europeo depende de sectores que reclaman mayor protección frente a las falsificaciones",
-   "enlace": "https://cincodias.elpais.com/legal/2026-11-26/casi-la-mitad-del-pib-europeo-depende-de-sectores-que-reclaman-mayor-proteccion-frente-a-las-falsificaciones.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T11:27:43+00:00",
-   "seccion": "Macroeconomía",
    "subseccion": null
   },
   {
@@ -458,27 +394,91 @@
    "subseccion": null
   },
   {
-   "titulo": "Juan Camilo Amaya, nuevo director general de Pons IP en Colombia",
-   "enlace": "https://cincodias.elpais.com/legal/2026-11-26/juan-camilo-amaya-nuevo-director-general-de-pons-ip-en-colombia.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T11:00:00+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
-   "titulo": "Grifols pagará un dividendo de 0,15 euros el próximo 4 de diciembre",
-   "enlace": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/grifols-pagara-un-dividendo-de-015-euros-el-proximo-4-de-diciembre.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T10:36:34+00:00",
-   "seccion": "España",
-   "subseccion": null
-  },
-  {
    "titulo": "Los jóvenes trabajan 13 días más al año que antes de la reforma laboral",
    "enlace": "https://elpais.com/economia/2026-11-26/los-jovenes-trabajan-13-dias-mas-al-ano-que-antes-de-la-reforma-laboral.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-26T10:29:21+00:00",
    "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "Haupt (Seat): “Estamos en buena posición para conseguir nuevos modelos para Barcelona, pero hay que hacer los deberes”",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/haupt-seat-estamos-en-buena-posicion-para-conseguir-nuevos-modelos-para-barcelona-pero-hay-que-hacer-los-deberes.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-26T10:26:06+00:00",
+   "seccion": "Empresas",
+   "subseccion": null
+  },
+  {
+   "titulo": "Reynés: \"Los políticos deben hacer de políticos y los empresarios, de empresarios\"",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/26/reynes-politicos-deben-politicos-empresarios-empresarios.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T10:25:50+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "La Seguridad Social lo confirma: quien cobra la pensión de viudedad puede perderla si se vuelve a casar, salvo en estos casos",
+   "enlace": "https://www.expansion.com/economia/2026/11/26/seguridad-social-confirma-cobra-pension-viudedad-perderla-vuelve-casar-salvo-casos.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T10:16:46+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "Musk dará dos acciones de SpaceX a cada niño de Estados Unidos en una operación de casi 17.000 millones",
+   "enlace": "https://elpais.com/economia/2026-11-26/musk-dara-dos-acciones-de-spacex-a-cada-nino-de-estados-unidos-en-una-operacion-de-casi-17000-millones.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-26T09:44:11+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable"
+  },
+  {
+   "titulo": "El Gobierno confirma su intención de prorrogar las ayudas al coche eléctrico en 2027 con 400 millones",
+   "enlace": "https://www.expansion.com/empresas/motor/2026/11/26/gobierno-confirma-intencion-prorrogar-ayudas-coche-electrico-2027-400-millones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T09:24:28+00:00",
+   "seccion": "Empresas",
+   "subseccion": null
+  },
+  {
+   "titulo": "El Gobierno convoca 14.373 plazas para la Administración General del Estado",
+   "enlace": "https://elpais.com/economia/2026-11-26/el-gobierno-convoca-14373-plazas-para-la-administracion-general-del-estado.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-26T09:11:47+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "Nvidia rebota desde su suporte de largo plazo",
+   "enlace": "https://www.expansion.com/mercados/2026/11/26/nvidia-rebota-suporte-plazo.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T08:59:58+00:00",
+   "seccion": "Mercados",
+   "subseccion": null
+  },
+  {
+   "titulo": "Isidro Fainé deja la presidencia de la Fundación CEDE en manos de Ramon Adell",
+   "enlace": "https://elpais.com/economia/2026-11-26/isidro-faine-deja-la-presidencia-de-la-fundacion-cede-en-manos-de-ramon-adell.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-26T08:52:04+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "Fainé deja la presidencia de la Fundación CEDE y será relevado por Ramón Adell",
+   "enlace": "https://www.europapress.es/economia/noticia-faine-deja-presidencia-fundacion-cede-sera-relevado-ramon-adell-20261126093315.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-26T08:33:15+00:00",
+   "seccion": "España",
+   "subseccion": null
+  },
+  {
+   "titulo": "Fainé deja la presidencia de CEDE en manos de Ramón Adell",
+   "enlace": "https://www.expansion.com/empresas/2026/11/26/faine-deja-presidencia-cede-manos-ramon-adell.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T08:22:34+00:00",
+   "seccion": "Empresas",
    "subseccion": null
   }
  ],
