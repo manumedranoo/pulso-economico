@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-26T20:16:44+00:00",
+ "actualizado": "2026-11-26T21:02:53+00:00",
  "noticias": [
+  {
+   "titulo": "Toyota supera los 300 millones en España con su negocio de carretillas",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/26/toyota-supera-300-millones-espana-negocio-carretillas.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T20:50:52+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957262499996.jpg"
+  },
   {
    "titulo": "Acciona estudia integrar su filial energética tras no encontrar comprador",
    "enlace": "https://www.expansion.com/empresas/2026/11/26/acciona-estudia-integrar-filial-energetica-encontrar-comprador.html",
@@ -531,15 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126093315_120.jpg"
-  },
-  {
-   "titulo": "Fainé deja la presidencia de CEDE en manos de Ramón Adell",
-   "enlace": "https://www.expansion.com/empresas/2026/11/26/faine-deja-presidencia-cede-manos-ramon-adell.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T08:22:34+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956813490449.jpg"
   }
  ],
  "cambio": {
