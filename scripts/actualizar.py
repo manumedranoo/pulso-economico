@@ -28,10 +28,10 @@ FUENTES = [
     ("Expansión", "https://e00-expansion.uecdn.es/rss/economia.xml", "España"),
     ("Expansión", "https://e00-expansion.uecdn.es/rss/empresas.xml", "Empresas"),
     ("Expansión", "https://e00-expansion.uecdn.es/rss/ahorro.xml", "Tus finanzas"),
-    ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada", "España"),
-    ("elEconomista", "https://www.eleconomista.es/rss/rss-mercados.php", "Mercados"),
-    ("elEconomista", "https://www.eleconomista.es/rss/rss-economia.php", "España"),
-    ("elEconomista", "https://www.eleconomista.es/rss/rss-empresas-finanzas.php", "Empresas"),
+    ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/mercados/portada", "Mercados"),
+    ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/economia/portada", "España"),
+    ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/companias/portada", "Empresas"),
+    ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/mis-finanzas/portada", "Tus finanzas"),
     ("Europa Press", "https://www.europapress.es/rss/rss.aspx?ch=00136", "España"),
     ("BCE", "https://www.ecb.europa.eu/rss/press.html", "Bancos centrales"),
 ]
@@ -45,7 +45,7 @@ REGLAS = [
     ("Mercados", "Renta variable", r"\b(ibex|bolsas?|wall street|stoxx|dax|nasdaq|s&p|acciones|cotizacion)\b"),
     ("Tus finanzas", None, r"\b(hipotecas?|ahorradores?|ahorro|irpf|declaracion de la renta|pensiones?|jubilacion|fondos de inversion|depositos?|euribor|planes de pensiones)\b"),
     ("Macroeconomia", None, r"\b(ipc|inflacion|pib|paro|desempleo|empleo|afiliacion|deficit|recaudacion|crecimiento economico|recesion|ocde|fmi)\b"),
-    ("Internacional", None, r"\b(ee\.? ?uu\.?|estados unidos|china|alemania|francia|italia|reino unido|japon|trump|bruselas|comision europea|eurozona|latinoamerica|mexico|argentina)\b"),
+    ("Internacional", None, r"\b(ee\.? ?uu\.?|estados unidos|china|alemania|francia|italia|reino unido|japon|trump|bruselas|comision europea|union europea|eurozona|paris|berlin|londres|pekin|washington|le pen|rusia|ucrania|india|brasil|venezuela|latinoamerica|mexico|argentina)\b"),
 ]
 
 
