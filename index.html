@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Noticias de economía y finanzas: mercados, España, internacional, bancos centrales y tus finanzas.">
+<title>Pulso Económico</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Diseño: estilo de prensa salmón sobria. Papel cálido, titulares en serifa, filetes finos en lugar de cajas, cabecera centrada. */
+:root {
+  --paper: #f3ede3;       /* papel arena, tono propio (no el salmón del FT) */
+  --paper-2: #ebe3d6;     /* franjas y cinta de mercados */
+  --ink: #1b1a17;
+  --muted: #5f5a51;
+  --rule: #cfc5b5;        /* filetes finos */
+  --rule-strong: #1b1a17; /* filetes gruesos */
+  --accent: #0f5c4d;      /* verde tinta de la marca */
+  --kicker: #8a2c3b;      /* granate para las secciones */
+  --up: #1f7a3a;
+  --down: #b23a2e;
+  --notice-bg: #e8dcc4;
+  --notice-ink: #4d3d1c;
+  --f-display: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-data: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #1a1815; --paper-2: #23201c; --ink: #ece6dc; --muted: #a59d90; --rule: #3a352e; --rule-strong: #ece6dc;
+    --accent: #6cc7ae; --kicker: #e0899a; --up: #6bd18a; --down: #f08679;
+    --notice-bg: #2e2818; --notice-ink: #e9d6a8; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #1a1815; --paper-2: #23201c; --ink: #ece6dc; --muted: #a59d90; --rule: #3a352e; --rule-strong: #ece6dc;
+  --accent: #6cc7ae; --kicker: #e0899a; --up: #6bd18a; --down: #f08679;
+  --notice-bg: #2e2818; --notice-ink: #e9d6a8; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; }
+a { color: inherit; text-decoration: none; }
+a:hover h2, a:hover h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+.notice { background: var(--notice-bg); color: var(--notice-ink); font-size: 0.82rem; }
+.notice .wrap { padding-block: 7px; text-align: center; }
+
+/* Cabecera centrada, como la de un periódico */
+.masthead .wrap { padding-block: 18px 0; display: grid; gap: 10px; text-align: center; }
+.topline { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px 16px; font-size: 0.8rem; color: var(--muted); }
+.logo { font-family: var(--f-display); font-weight: 700; font-size: clamp(2.2rem, 6vw, 3.4rem); letter-spacing: -0.015em; line-height: 1; padding-block: 6px 12px; }
+.logo span { color: var(--accent); }
+nav { border-top: 1px solid var(--rule-strong); border-bottom: 1px solid var(--rule); }
+nav > ul { list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; gap: 0 22px; flex-wrap: wrap; }
+nav a { display: inline-block; padding: 10px 0; font-weight: 500; font-size: 0.9rem; border-bottom: 2px solid transparent; }
+nav a[aria-current="page"], nav > ul > li > a:hover { border-bottom-color: var(--ink); }
+.has-sub { position: relative; }
+.sub { display: none; list-style: none; margin: 0; position: absolute; top: 100%; left: -14px; z-index: 5; flex-direction: column; min-width: 190px; background: var(--paper); border: 1px solid var(--rule); border-top: 2px solid var(--ink); padding: 6px 0; text-align: left; }
+.has-sub:hover .sub, .has-sub:focus-within .sub { display: flex; }
+.sub a { display: block; padding: 7px 14px; border-bottom: 0; font-weight: 400; }
+.sub a:hover { background: var(--paper-2); }
+
+/* Cinta de mercados */
+.ticker { background: var(--paper-2); border-bottom: 1px solid var(--rule); }
+.ticker .wrap { padding-block: 9px; display: flex; gap: 6px 26px; flex-wrap: wrap; align-items: center; justify-content: center; }
+.ticker-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.quote { display: flex; gap: 7px; align-items: baseline; font-family: var(--f-data); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
+.quote b { font-family: var(--f-body); font-weight: 600; }
+.up { color: var(--up); } .down { color: var(--down); }
+
+/* Contenido */
+main .wrap { padding-block: 28px 48px; display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 40px; }
+@media (max-width: 880px) { main .wrap { grid-template-columns: minmax(0, 1fr); } }
+
+.kicker { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.04em; color: var(--kicker); }
+.meta { color: var(--muted); font-size: 0.8rem; }
+h1, h2, h3 { font-family: var(--f-display); font-weight: 600; text-wrap: balance; margin: 0; }
+
+.lead { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 12px 32px; padding-bottom: 26px; border-bottom: 1px solid var(--rule-strong); }
+@media (max-width: 640px) { .lead { grid-template-columns: minmax(0, 1fr); } }
+.lead-main { display: grid; gap: 10px; align-content: start; }
+.lead h2 { font-size: clamp(1.9rem, 4vw, 2.7rem); line-height: 1.08; font-weight: 700; }
+.lead p { margin: 0; font-size: 1.08rem; color: var(--muted); max-width: 60ch; }
+.lead-side { display: grid; gap: 10px; align-content: start; border-left: 1px solid var(--rule); padding-left: 24px; }
+@media (max-width: 640px) { .lead-side { border-left: 0; padding-left: 0; border-top: 1px solid var(--rule); padding-top: 14px; } }
+.figure { font-family: var(--f-data); font-size: clamp(2.4rem, 6vw, 3.2rem); color: var(--accent); line-height: 1; font-variant-numeric: tabular-nums; }
+.figure-label { font-size: 0.85rem; color: var(--muted); }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0 32px; }
+.story { display: grid; gap: 6px; align-content: start; padding-block: 18px 22px; border-bottom: 1px solid var(--rule); }
+.story h3 { font-size: 1.22rem; line-height: 1.2; }
+.story p { margin: 0; color: var(--muted); font-size: 0.94rem; }
+
+/* Barra lateral: bloques separados por un filete grueso arriba, sin cajas */
+aside { display: grid; gap: 32px; align-content: start; }
+.panel { border-top: 3px solid var(--rule-strong); padding-top: 12px; display: grid; gap: 12px; }
+.panel h2 { font-size: 1.15rem; }
+.agenda { list-style: none; margin: 0; padding: 0; display: grid; }
+.agenda li { display: grid; grid-template-columns: 46px 1fr; gap: 12px; align-items: start; padding-block: 10px; border-bottom: 1px solid var(--rule); }
+.agenda .day { font-family: var(--f-data); font-size: 0.72rem; color: var(--muted); line-height: 1.15; }
+.agenda .day strong { display: block; font-size: 1.15rem; color: var(--ink); }
+.agenda .what { font-size: 0.92rem; }
+.agenda .what span { display: block; color: var(--muted); font-size: 0.8rem; }
+.term { font-family: var(--f-display); font-size: 1.45rem; font-weight: 700; color: var(--accent); }
+.panel p { margin: 0; font-size: 0.93rem; }
+
+footer { border-top: 1px solid var(--rule-strong); }
+footer .wrap { padding-block: 22px; color: var(--muted); font-size: 0.82rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
+</style>
+</head>
+<body>
+
+<div class="notice">
+  <div class="wrap">Versión de prueba. Las noticias y cifras de esta página son ejemplos para ver el diseño, no datos reales.</div>
+</div>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="topline"><span>Jueves, 26 de noviembre de 2026</span><span>Edición España</span></div>
+    <div class="logo">Pulso<span>.</span>Económico</div>
+    <nav aria-label="Secciones">
+      <ul>
+        <li><a href="#" aria-current="page">Portada</a></li>
+        <li class="has-sub">
+          <a href="#" aria-haspopup="true">Mercados ▾</a>
+          <ul class="sub">
+            <li><a href="#">Renta variable</a></li>
+            <li><a href="#">Renta fija</a></li>
+            <li><a href="#">Divisas</a></li>
+            <li><a href="#">Materias primas</a></li>
+          </ul>
+        </li>
+        <li><a href="#">España</a></li>
+        <li><a href="#">Internacional</a></li>
+        <li><a href="#">Macroeconomía</a></li>
+        <li><a href="#">Bancos centrales</a></li>
+        <li><a href="#">Empresas</a></li>
+        <li><a href="#">Tus finanzas</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div class="ticker" aria-label="Indicadores de mercado (ejemplo)">
+  <div class="wrap">
+    <span class="ticker-label">Mercados · ejemplo</span>
+    <span class="quote"><b>IBEX 35</b> 12.418 <span class="up">▲ 0,64 %</span></span>
+    <span class="quote"><b>Euro Stoxx 50</b> 5.102 <span class="down">▼ 0,21 %</span></span>
+    <span class="quote"><b>EUR/USD</b> 1,0870 <span class="up">▲ 0,12 %</span></span>
+    <span class="quote"><b>Brent</b> 74,30 $ <span class="down">▼ 1,05 %</span></span>
+    <span class="quote"><b>Bono 10A</b> 3,02 % <span class="down">▼ 3 pb</span></span>
+    <span class="quote"><b>Prima de riesgo</b> 68 pb <span class="up">▲ 1 pb</span></span>
+  </div>
+</div>
+
+<main>
+  <div class="wrap">
+    <div>
+      <article class="lead">
+        <div class="lead-main">
+          <span class="kicker">Bancos centrales</span>
+          <a href="#"><h2>El BCE mantiene los tipos y abre la puerta a un recorte en primavera</h2></a>
+          <p>La presidenta del banco central señala que la inflación subyacente se acerca al objetivo del 2 % y que la próxima decisión dependerá de los datos de salarios del primer trimestre.</p>
+          <span class="meta">Redacción · hace 2 horas · 4 min de lectura</span>
+        </div>
+        <div class="lead-side">
+          <div class="figure">2,00 %</div>
+          <div class="figure-label">Tipo de la facilidad de depósito del BCE, sin cambios</div>
+        </div>
+      </article>
+
+      <section class="grid" aria-label="Más noticias">
+        <a class="story" href="#">
+          <span class="kicker">Renta variable</span>
+          <h3>El IBEX 35 sube por cuarta sesión seguida empujado por la banca</h3>
+          <p>Las entidades financieras lideran las subidas tras conocerse los resultados de las pruebas de resistencia.</p>
+          <span class="meta">hace 35 min</span>
+        </a>
+        <a class="story" href="#">
+          <span class="kicker">España</span>
+          <h3>El paro registrado baja en 18.000 personas en noviembre</h3>
+          <p>El sector servicios concentra la mayor parte de la creación de empleo antes de la campaña de Navidad.</p>
+          <span class="meta">hace 1 hora</span>
+        </a>
+        <a class="story" href="#">
+          <span class="kicker">Empresas</span>
+          <h3>Una energética española compra un parque eólico en Portugal por 420 millones</h3>
+          <p>La operación eleva su capacidad renovable en la península hasta los 6 gigavatios.</p>
+          <span class="meta">hace 3 horas</span>
+        </a>
+        <a class="story" href="#">
+          <span class="kicker">Tus finanzas</span>
+          <h3>Qué significa la bajada del euríbor para tu hipoteca variable</h3>
+          <p>Con el euríbor a 12 meses en el 2,1 %, una hipoteca media de 150.000 euros podría bajar unos 40 euros al mes en la próxima revisión.</p>
+          <span class="meta">hace 5 horas</span>
+        </a>
+        <a class="story" href="#">
+          <span class="kicker">Materias primas</span>
+          <h3>El oro marca un nuevo máximo y supera los 2.700 dólares la onza</h3>
+          <p>Los inversores buscan refugio ante la incertidumbre comercial entre Estados Unidos y China.</p>
+          <span class="meta">hace 6 horas</span>
+        </a>
+        <a class="story" href="#">
+          <span class="kicker">Internacional</span>
+          <h3>La economía china crece un 4,8 % y se aleja del objetivo oficial</h3>
+          <p>El consumo interno sigue débil pese a los estímulos de Pekín, mientras las exportaciones resisten.</p>
+          <span class="meta">ayer</span>
+        </a>
+      </section>
+    </div>
+
+    <aside>
+      <section class="panel" aria-labelledby="agenda-t">
+        <h2 id="agenda-t">Agenda de la semana</h2>
+        <ul class="agenda">
+          <li><div class="day">VIE<strong>27</strong></div><div class="what">IPC adelantado de noviembre<span>INE · 9:00</span></div></li>
+          <li><div class="day">LUN<strong>30</strong></div><div class="what">PMI manufacturero de la eurozona<span>10:00</span></div></li>
+          <li><div class="day">MIÉ<strong>2</strong></div><div class="what">Datos de paro registrado<span>Ministerio de Trabajo · 9:00</span></div></li>
+          <li><div class="day">VIE<strong>4</strong></div><div class="what">Informe de empleo de EE. UU.<span>14:30</span></div></li>
+        </ul>
+        <span class="meta">Fechas de ejemplo</span>
+      </section>
+
+      <section class="panel" aria-labelledby="glosario-t">
+        <span class="kicker" id="glosario-t">Término del día</span>
+        <div class="term">Prima de riesgo</div>
+        <p>Es la diferencia entre lo que paga España por su bono a 10 años y lo que paga Alemania. Se mide en puntos básicos: 100 pb equivalen a un 1 %. Cuanto más alta, más desconfían los inversores.</p>
+      </section>
+    </aside>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Pulso Económico</span>
+    <span>Proyecto en construcción · versión 0.3</span>
+  </div>
+</footer>
+</body>
+</html>
