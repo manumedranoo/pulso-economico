@@ -111,6 +111,11 @@ aside { display: grid; gap: 32px; align-content: start; }
 footer { border-top: 1px solid var(--rule-strong); }
 footer .wrap { padding-block: 22px; color: var(--muted); font-size: 0.82rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
 .lead-link { display: grid; gap: 10px; }
+.foto { margin: 0; display: grid; gap: 4px; }
+.foto img { display: block; width: 100%; max-width: 100%; aspect-ratio: 3 / 2; object-fit: cover; background: var(--paper-2); }
+.foto figcaption { font-size: 0.72rem; color: var(--muted); }
+.destacadas { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 32px; border-bottom: 1px solid var(--rule-strong); }
+.destacadas .story { border-bottom: 0; }
 .side-list { list-style: none; margin: 0; padding: 0; display: grid; }
 .side-list li { padding-block: 10px; border-bottom: 1px solid var(--rule); }
 .side-list li:first-child { padding-top: 0; }
@@ -243,9 +248,19 @@ function el(tag, attrs = {}, ...hijos) {
   return e;
 }
 
-function enlaceNoticia(n, clase, nivel) {
+// Foto que ofrece el propio medio en su RSS: se enlaza (no se copia) y se cita la fuente.
+function foto(n) {
+  if (!n.imagen || !/^https:\/\//.test(n.imagen)) return null;
+  const img = el("img", { src: n.imagen, alt: "", loading: "lazy", referrerpolicy: "no-referrer" });
+  const fig = el("figure", { class: "foto" }, img, el("figcaption", {}, "Foto: " + n.fuente));
+  img.addEventListener("error", () => fig.remove());
+  return fig;
+}
+
+function enlaceNoticia(n, clase, nivel, conFoto = false) {
   const url = /^https?:\/\//.test(n.enlace) ? n.enlace : "#";
   return el("a", { class: clase, href: url, target: "_blank", rel: "noopener" },
+    conFoto ? foto(n) : null,
     el("span", { class: "kicker" }, n.subseccion || n.seccion),
     el(nivel, {}, n.titulo),
     el("span", { class: "meta" }, `${n.fuente} · ${hace(n.fecha)}`));
@@ -264,12 +279,20 @@ function pintar() {
   if (sec) caja.append(el("div", { class: "section-title" }, el("h1", {}, sec.nombre), el("span", { class: "meta" }, `${lista.length} titulares`)));
   if (!lista.length) { caja.append(el("p", { class: "status" }, "Ahora mismo no hay titulares en esta sección. Vuelve en un rato: se actualiza cada hora.")); return; }
 
-  const [primera, ...resto] = lista;
+  // Principal: la más reciente con foto entre las primeras seis (si no hay, la más reciente).
+  const resto = [...lista];
+  const iPrincipal = Math.max(0, resto.slice(0, 6).findIndex(n => n.imagen));
+  const [primera] = resto.splice(iPrincipal, 1);
   const laterales = resto.splice(0, 3);
+  // Destacadas: las tres siguientes que tengan foto.
+  const destacadas = resto.filter(n => n.imagen).slice(0, 3);
+  for (const d of destacadas) resto.splice(resto.indexOf(d), 1);
   const lead = el("article", { class: "lead" },
-    el("div", { class: "lead-main" }, enlaceNoticia(primera, "lead-link", "h2")),
+    el("div", { class: "lead-main" }, enlaceNoticia(primera, "lead-link", "h2", true)),
     laterales.length ? el("div", { class: "lead-side" }, el("ul", { class: "side-list" }, ...laterales.map(n => el("li", {}, enlaceNoticia(n, "", "h3"))))) : null);
-  caja.append(lead, el("section", { class: "grid", "aria-label": "Más noticias" }, ...resto.map(n => enlaceNoticia(n, "story", "h3"))));
+  caja.append(lead);
+  if (destacadas.length) caja.append(el("section", { class: "destacadas", "aria-label": "Destacadas" }, ...destacadas.map(n => enlaceNoticia(n, "story", "h3", true))));
+  caja.append(el("section", { class: "grid", "aria-label": "Más noticias" }, ...resto.map(n => enlaceNoticia(n, "story", "h3"))));
 }
 
 function pintarTicker(cambio) {

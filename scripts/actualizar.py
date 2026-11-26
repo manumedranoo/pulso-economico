@@ -88,6 +88,28 @@ def hijo(elemento, *nombres):
     return ""
 
 
+def imagen(elemento):
+    """Foto que el propio medio ofrece en su RSS (media:content, media:thumbnail o enclosure).
+    Solo guardamos la dirección: la imagen se sigue sirviendo desde el medio."""
+    mejor, ancho_mejor = "", -1
+    for e in elemento.iter():
+        etiqueta = e.tag.split("}")[-1]
+        url = e.get("url") or ""
+        if not url.startswith("https://"):
+            continue
+        tipo = e.get("type") or e.get("medium") or ""
+        if etiqueta in ("content", "thumbnail") or (etiqueta == "enclosure" and "image" in tipo):
+            if tipo and "image" not in tipo and etiqueta != "thumbnail":
+                continue
+            try:
+                ancho = int(e.get("width") or 0)
+            except ValueError:
+                ancho = 0
+            if ancho > ancho_mejor:
+                mejor, ancho_mejor = url, ancho
+    return mejor or None
+
+
 def leer_rss(fuente, url, seccion_defecto):
     raiz = ET.fromstring(descargar(url))
     elementos = [e for e in raiz.iter() if e.tag.split("}")[-1] in ("item", "entry")]
@@ -106,6 +128,7 @@ def leer_rss(fuente, url, seccion_defecto):
             "fecha": fecha.isoformat() if fecha else None,
             "seccion": seccion,
             "subseccion": subseccion,
+            "imagen": imagen(e),
         })
     return noticias
 
