@@ -1,6 +1,78 @@
 {
- "actualizado": "2026-11-27T04:15:54+00:00",
+ "actualizado": "2026-11-27T05:24:52+00:00",
  "noticias": [
+  {
+   "titulo": "Hernández de Cos, el valor del prestigio",
+   "enlace": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T05:03:52+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/HWGHGBMOTZCTZI7DF5VTXNFDZE.jpg?auth=56b90678eb880377251adf248ee7ad191d65964e723fc8634db01ceb8675f322"
+  },
+  {
+   "titulo": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
+   "enlace": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:30:01+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/G42PPHMLUVKKVPV37C6Q6IWP34.jpg?auth=26119aa7815d3855eca52656b81756d5f29c41ef27dd93f92193b4e931a709b3"
+  },
+  {
+   "titulo": "Sines: el pueblo de menos de 15.000 habitantes que devorará hasta el 20% del consumo eléctrico de Portugal por los centros de datos",
+   "enlace": "https://elpais.com/economia/negocios/2026-11-27/sines-el-pueblo-que-devorara-el-20-del-consumo-electrico-de-portugal-con-menos-de-15000-habitantes-por-los-centros-de-datos.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:30:01+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/KSVAXZVVCREZDHMJWSZ7XWYPMQ.jpg?auth=71403834ed64256ee396b0dc0ff445a1ac11686a566ab78d251fcefabd0d09e1"
+  },
+  {
+   "titulo": "Trabas legales y dudas sobre su efectividad: ¿se pueden gravar las remesas de los trabajadores extranjeros como propone Vox?",
+   "enlace": "https://elpais.com/economia/2026-11-27/trabas-legales-y-dudas-sobre-su-efectividad-se-pueden-gravar-las-remesas-de-los-trabajadores-extranjeros-como-propone-vox.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:30:01+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/IUHKWLNZ3VHVPHEXHTR76CK2E4.jpg?auth=457a1d3d140cc64614a857d581b848abc9722962762621e6de0adf86e1d4c30a"
+  },
+  {
+   "titulo": "Tengo más de 70 años y una segunda residencia donde paso un tercio del año. ¿Puedo obligar a la comunidad a instalar un ascensor?",
+   "enlace": "https://elpais.com/economia/vivienda/consultorio/2026-11-27/tengo-mas-de-70-anos-y-una-segunda-residencia-donde-paso-un-tercio-del-ano-puedo-obligar-a-la-comunidad-a-instalar-un-ascensor.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:30:00+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/DNGG243VDVAOBKMFKUYDZGNAQ4.jpg?auth=5b263261e2c8ac786e5d143b41dfd5bd8807e10d63e8c9200d11043f568c5038"
+  },
+  {
+   "titulo": "Cuenta atrás para el aluvión de envíos: en las entrañas de un almacén de reparto a las puertas de la campaña navideña",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/cuenta-atras-para-el-aluvion-de-envios-en-las-entranas-de-un-almacen-de-reparto-a-las-puertas-de-la-campana-navidena.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/NQLNVMVYJVFRFASIOPOUKHGHLA.jpg?auth=cd617bfae7fdac5931ce5ea34fc34300cd602c3aeecfa36cb04fb96d72acefda"
+  },
+  {
+   "titulo": "El Corte Inglés priorizará blindar el grado de inversión en su plan estratégico de cara a la refinanciación",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-corte-ingles-priorizara-blindar-el-grado-de-inversion-en-su-plan-estrategico-de-cara-a-la-refinanciacion.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/UZVEA6VGORHXVKBLZEGXMO3OOU.png?auth=68f5fa6673f76ecc4b7a42a5257d455c755eb0394ba525bddc51a9549d0694be"
+  },
+  {
+   "titulo": "La banca privada del Santander llevará a la Bolsa de Portfolio su segunda socimi",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-banca-privada-del-santander-llevara-a-la-bolsa-de-portfolio-su-segunda-socimi.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:15:00+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://imagenes.elpais.com/resizer/v2/QYW6R2RLXBGOJCQQLPMLCPYJCY.jpg?auth=5f85021e963ddd2c467a4cf3b81b9288324b589b37614a609018af42882e309e"
+  },
   {
    "titulo": "El cisne del Ibex que vuela alto este año y encandila a los expertos",
    "enlace": "https://www.expansion.com/inversion/2026/11/27/cisne-ibex-vuela-alto-ano-encandila-expertos.html",
@@ -468,78 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/23NF5AG5QRFV3MPZT6T3ZGD6VY.jpg?auth=a6c81c83d18606ae93983cfe411b2b563a94b1b6cb58cf284625949216ce3617"
-  },
-  {
-   "titulo": "Illa quiere directivos \"comprometidos con la prosperidad compartida\" y la democracia",
-   "enlace": "https://www.expansion.com/catalunya/2026/11/26/illa-quiere-directivos-comprometidos-prosperidad-compartida-democracia.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T13:29:42+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956997759983.jpg"
-  },
-  {
-   "titulo": "Pablo Hernández de Cos, nuevo presidente del Banco Central Europeo",
-   "enlace": "https://www.expansion.com/mercados/2026/11/26/pablo-hernandez-cos-nuevo-presidente-banco-central-europeo.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T13:23:48+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941464566783.jpg"
-  },
-  {
-   "titulo": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
-   "enlace": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:19:27+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/5ECJ3PRMCZG2PD3YPJ3E6UZDWM.jpg?auth=977ad8b774d84ff4ca609ba92c7665f911cf2d4260d25dedcb8dcc6750a8dcd2"
-  },
-  {
-   "titulo": "El Euríbor hoy encadena dos bajadas, pero tu hipoteca ya no se libra: así cerrará el año",
-   "enlace": "https://www.expansion.com/mercados/euribor/2026/11/26/euribor-hoy-encadena-dos-bajadas-hipoteca-libra-asi-cerrara-ano.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T13:07:07+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956984135746.png"
-  },
-  {
-   "titulo": "Amundi sale a la caza de dividendos europeos",
-   "enlace": "https://www.expansion.com/inversion/2026/11/26/amundi-sale-caza-dividendos-europeos.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T13:04:16+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956982419144.jpg"
-  },
-  {
-   "titulo": "Portugal confirma a Sacyr como ganador del AVE Lisboa-Oporto",
-   "enlace": "https://www.expansion.com/empresas/2026/11/26/portugal-confirma-sacyr-ganador-ave-lisboa-oporto.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T13:00:33+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956980229429.jpg"
-  },
-  {
-   "titulo": "Digi lidera la captación de clientes pero sufre el mayor índice de fugas entre operadoras",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/digi-lidera-la-captacion-de-clientes-pero-sufre-el-mayor-indice-de-fugas-entre-operadoras.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T12:54:52+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/YRAKK2OYD5CA3OYMA2JEMLYQ3Q.png?auth=798cb062d80707dab62987e91449ea5f58c2193123eb51200d6e6fc13bdd54e8"
-  },
-  {
-   "titulo": "El Gobierno de Navarra se opone a la opa sobre el 100% del capital de Azkoyen",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/el-gobierno-de-navarra-se-opone-a-la-opa-sobre-el-100-del-capital-de-azkoyen.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T12:49:13+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/GCVCNMFPF5FJDF5MFCOR7V4UZQ.jpg?auth=bcb4f6f7da0c95d12ee431e541119c3e4b8b7cc4122eea5b4ef735f4aafbc668"
   }
  ],
  "cambio": {
