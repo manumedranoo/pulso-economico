@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-26T23:05:58+00:00",
+ "actualizado": "2026-11-27T00:03:48+00:00",
  "noticias": [
+  {
+   "titulo": "El bitcoin se enfrenta hoy a un gran vencimiento de opciones",
+   "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/11/27/bitcoin-enfrenta-hoy-gran-vencimiento-opciones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T23:44:36+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Divisas",
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17949894653296.jpg"
+  },
+  {
+   "titulo": "Los retos del nuevo BCE: combatir la inflación con un ojo en Francia",
+   "enlace": "https://www.expansion.com/mercados/2026/11/27/retos-nuevo-bce-combatir-inflacion-ojo-francia.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T23:42:15+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957365248254.jpg"
+  },
+  {
+   "titulo": "Feijóo y Abascal cercan con el “saqueo” a un Sánchez más agresivo ayudado por Colau",
+   "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/27/feijoo-abascal-cercan-saqueo-sanchez-agresivo-ayudado-colau.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-26T23:25:19+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957355129429.jpg"
+  },
   {
    "titulo": "Los sindicatos temen el despido de los 659 empleados de Plus Ultra y el cierre de la aerolínea",
    "enlace": "https://www.expansion.com/empresas/transporte/2026/11/26/sindicatos-temen-despido-659-empleados-plus-ultra-cierre-aerolinea.html",
@@ -513,33 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956881999996.jpg"
-  },
-  {
-   "titulo": "Musk dará dos acciones de SpaceX a cada niño de Estados Unidos en una operación de casi 17.000 millones",
-   "enlace": "https://elpais.com/economia/2026-11-26/musk-dara-dos-acciones-de-spacex-a-cada-nino-de-estados-unidos-en-una-operacion-de-casi-17000-millones.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T09:44:11+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://imagenes.elpais.com/resizer/v2/F4DERB4MW5L6XANR7ZBUOV4ZY4.jpg?auth=9de6ae6ef98753cf0ffa87f583ee847e3a796f36e9c172fb4e1060abcdb57ab2"
-  },
-  {
-   "titulo": "El Gobierno confirma su intención de prorrogar las ayudas al coche eléctrico en 2027 con 400 millones",
-   "enlace": "https://www.expansion.com/empresas/motor/2026/11/26/gobierno-confirma-intencion-prorrogar-ayudas-coche-electrico-2027-400-millones.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T09:24:28+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956850699996.jpg"
-  },
-  {
-   "titulo": "El Gobierno convoca 14.373 plazas para la Administración General del Estado",
-   "enlace": "https://elpais.com/economia/2026-11-26/el-gobierno-convoca-14373-plazas-para-la-administracion-general-del-estado.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T09:11:47+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/VMX7G423RFOA5HKOQW3YJBT73A.jpg?auth=91e18fac78692b1807030dc10eb5e276821e7c1b9a473984262b9ab3bbcdea70"
   }
  ],
  "cambio": {
