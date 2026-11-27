@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-27T15:05:59+00:00",
+ "actualizado": "2026-11-27T16:13:42+00:00",
  "noticias": [
+  {
+   "titulo": "El grupo turco Tosyali visitará las plantas de Tubos Reunidos la próxima semana",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-grupo-turco-tosyali-visitara-las-plantas-de-tubos-reunidos-la-proxima-semana.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:05:57+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/FJ7Z7EHELJLVVI2TGMUUGIKSDU.jpg?auth=534662a5ef352160c1b8d97727f2eceddb8f35b191040cb173ec281201d47554"
+  },
+  {
+   "titulo": "Telefónica despliega cobertura 5G de altas prestaciones en 18 estaciones del Metro de Madrid",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/telefonica-despliega-cobertura-5g-de-altas-prestaciones-en-18-estaciones-del-metro-de-madrid.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:04:15+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/SQG5V2O3GRGTXBMYS5IXNIWQGA.JPG?auth=478018a5d968fb10c9df96be4bb2e62a1fcee67f713cab346dcb2e7b70065a4c"
+  },
   {
    "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
    "enlace": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
@@ -56,7 +74,7 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957820377629.jpg"
   },
   {
-   "titulo": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales",
+   "titulo": "El Santander se concentra en crecer en banca de empresas y remodela al equipo en España",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
    "fuente": "Cinco Días",
    "fecha": "2026-11-27T12:10:52+00:00",
@@ -522,24 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957355129429.jpg"
-  },
-  {
-   "titulo": "Los sindicatos temen el despido de los 659 empleados de Plus Ultra y el cierre de la aerolínea",
-   "enlace": "https://www.expansion.com/empresas/transporte/2026/11/26/sindicatos-temen-despido-659-empleados-plus-ultra-cierre-aerolinea.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T22:51:08+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17949603589197.jpg"
-  },
-  {
-   "titulo": "Sánchez y Colau alertan contra la \"motosierra\" de Vox y las \"tijeras\" del PP",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-colau-alertan-contra-motosierra-vox-tijeras-pp-20261126231502.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T22:15:02+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126231502_120.jpg"
   }
  ],
  "cambio": {
