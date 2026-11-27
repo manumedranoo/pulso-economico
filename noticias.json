@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-27T13:25:50+00:00",
+ "actualizado": "2026-11-27T15:05:59+00:00",
  "noticias": [
+  {
+   "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
+   "enlace": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T15:00:24+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/UCQXKJVJOBDW3CB55VFC73YUGA.jpg?auth=b044af3b3bcc400baf39ceddf85e3ca06c63af4a1387ca72a272230108f53130"
+  },
+  {
+   "titulo": "Messi amplía su patrimonio hotelero en España y compra un inmueble a Meliá en el Valle de Arán",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/messi-amplia-su-patrimonio-hotelero-en-espana-y-compra-un-inmueble-a-melia-en-el-valle-de-aran.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T14:58:19+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/IA4ZJ2V5DJDEPINA2VK62TXQPI.jpg?auth=4ebe2298b056d4bb77e91fc2974a268664bd321f20e31dd87246ff07a2b5e041"
+  },
+  {
+   "titulo": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "enlace": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "fuente": "BCE",
+   "fecha": "2026-11-27T14:00:00+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": null
+  },
   {
    "titulo": "Euríbor hoy, 27 de noviembre: El Euríbor cierra la semana al alza",
    "enlace": "https://www.expansion.com/mercados/euribor/2026/11/27/euribor-hoy-27-noviembre-euribor-cierra-semana-alza.html",
@@ -335,15 +362,6 @@
    "imagen": "https://imagenes.elpais.com/resizer/v2/NQLNVMVYJVFRFASIOPOUKHGHLA.jpg?auth=cd617bfae7fdac5931ce5ea34fc34300cd602c3aeecfa36cb04fb96d72acefda"
   },
   {
-   "titulo": "El Corte Inglés priorizará blindar el grado de inversión en su plan estratégico de cara a la refinanciación",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-corte-ingles-priorizara-blindar-el-grado-de-inversion-en-su-plan-estrategico-de-cara-a-la-refinanciacion.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:15:00+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/UZVEA6VGORHXVKBLZEGXMO3OOU.png?auth=68f5fa6673f76ecc4b7a42a5257d455c755eb0394ba525bddc51a9549d0694be"
-  },
-  {
    "titulo": "La banca privada del Santander llevará a la Bolsa de Portfolio su segunda socimi",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-banca-privada-del-santander-llevara-a-la-bolsa-de-portfolio-su-segunda-socimi.html",
    "fuente": "Cinco Días",
@@ -351,6 +369,15 @@
    "seccion": "Mercados",
    "subseccion": "Renta variable",
    "imagen": "https://imagenes.elpais.com/resizer/v2/QYW6R2RLXBGOJCQQLPMLCPYJCY.jpg?auth=5f85021e963ddd2c467a4cf3b81b9288324b589b37614a609018af42882e309e"
+  },
+  {
+   "titulo": "El Corte Inglés priorizará blindar el grado de inversión en su plan estratégico de cara a la refinanciación",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-corte-ingles-priorizara-blindar-el-grado-de-inversion-en-su-plan-estrategico-de-cara-a-la-refinanciacion.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/UZVEA6VGORHXVKBLZEGXMO3OOU.png?auth=68f5fa6673f76ecc4b7a42a5257d455c755eb0394ba525bddc51a9549d0694be"
   },
   {
    "titulo": "El cisne del Ibex que vuela alto este año y encandila a los expertos",
@@ -513,62 +540,35 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126231502_120.jpg"
-  },
-  {
-   "titulo": "Illa pide directivos “comprometidos” y los empresarios, menos impuestos",
-   "enlace": "https://www.expansion.com/catalunya/2026/11/26/illa-pide-directivos-comprometidos-empresarios-impuestos.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T21:20:07+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957279943105.jpg"
-  },
-  {
-   "titulo": "Toyota supera los 300 millones en España con su negocio de carretillas",
-   "enlace": "https://www.expansion.com/catalunya/2026/11/26/toyota-supera-300-millones-espana-negocio-carretillas.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T20:50:52+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957262499996.jpg"
-  },
-  {
-   "titulo": "Acciona estudia integrar su filial energética tras no encontrar comprador",
-   "enlace": "https://www.expansion.com/empresas/2026/11/26/acciona-estudia-integrar-filial-energetica-encontrar-comprador.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T19:15:49+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957205326203.jpg"
   }
  ],
  "cambio": {
-  "fecha": "2026-11-26",
+  "fecha": "2026-11-27",
   "divisas": [
    {
     "par": "EUR/USD",
-    "valor": 1.0975,
-    "variacion": 0.37
+    "valor": 1.0957,
+    "variacion": -0.16
    },
    {
     "par": "EUR/GBP",
-    "valor": 0.83755,
-    "variacion": 0.03
+    "valor": 0.83504,
+    "variacion": -0.3
    },
    {
     "par": "EUR/JPY",
-    "valor": 174.79,
-    "variacion": 0.33
+    "valor": 174.81,
+    "variacion": 0.01
    },
    {
     "par": "EUR/CHF",
-    "valor": 0.9153,
-    "variacion": 0.75
+    "valor": 0.9157,
+    "variacion": 0.04
    },
    {
     "par": "EUR/CNY",
-    "valor": 7.3096,
-    "variacion": 0.13
+    "valor": 7.2912,
+    "variacion": -0.25
    }
   ]
  }
