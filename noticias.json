@@ -1,6 +1,42 @@
 {
- "actualizado": "2026-11-27T12:04:52+00:00",
+ "actualizado": "2026-11-27T13:25:50+00:00",
  "noticias": [
+  {
+   "titulo": "Euríbor hoy, 27 de noviembre: El Euríbor cierra la semana al alza",
+   "enlace": "https://www.expansion.com/mercados/euribor/2026/11/27/euribor-hoy-27-noviembre-euribor-cierra-semana-alza.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T12:44:04+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937083358680.jpg"
+  },
+  {
+   "titulo": "Thales negocia la compra del 51,6% de Lumibird para crear un gigante europeo de fotónica",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/thales-negocia-la-compra-del-516-de-lumibird-para-crear-un-gigante-europeo-de-fotonica.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T12:37:29+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/KBZ2S2OJQBNU7NA5SLJFEX346U.jpg?auth=044ee490bcfb859a68a5a61a89c42fa473961ab5f1895b830c30e6444d8656b5"
+  },
+  {
+   "titulo": "Los dos momentos del debate",
+   "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/27/dos-momentos-debate.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T12:20:50+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957820377629.jpg"
+  },
+  {
+   "titulo": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T12:10:52+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/FTWTDRDRRVL5XK5DFUQITCPV5Q.jpg?auth=0b8354aa406a4b452bb1cf5d793c75a0fe70d8388d5a53e92ef55c31dd67f1bb"
+  },
   {
    "titulo": "Grifols compra 47 centros de plasma de Biotest por 220 millones",
    "enlace": "https://www.expansion.com/catalunya/2026/11/27/grifols-compra-47-centros-plasma-biotest-220-millones.html",
@@ -65,15 +101,6 @@
    "imagen": "https://imagenes.elpais.com/resizer/v2/ZVJNB6SVUTRGB7IW5OA32QOWSE.jpg?auth=2e5a6d9deb9ade4d25c60abbc164e508992971bcb1f07914c772e4babcd2deda"
   },
   {
-   "titulo": "Feijóo dice que cuidará \"al máximo\" a los pensionistas y concretará su rebaja fiscal tras auditar las cuentas",
-   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-feijoo-dice-cuidara-maximo-pensionistas-concretara-rebaja-fiscal-auditar-cuentas-20261127111344.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T10:13:44+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127111344_120.jpg"
-  },
-  {
    "titulo": "Jubilación parcial: quién puede cobrar parte de la pensión y seguir trabajando a tiempo parcial, y cuánto se cobra",
    "enlace": "https://www.expansion.com/economia/2026/11/27/jubilacion-parcial-cobrar-parte-pension-seguir-trabajando-parcial-cuanto-cobra.html",
    "fuente": "Expansión",
@@ -99,6 +126,15 @@
    "seccion": "Mercados",
    "subseccion": "Divisas",
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/17/17949131955935.jpg"
+  },
+  {
+   "titulo": "Eléctricas y gran industria cifran en 4.750 millones el coste de los servicios de operación",
+   "enlace": "https://www.europapress.es/economia/energia-00341/noticia-electricas-gran-industria-cifran-4750-millones-coste-servicios-operacion-20261127105903.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T09:59:03+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127105903_120.jpg"
   },
   {
    "titulo": "La cara oculta de los récords del empleo",
@@ -135,6 +171,15 @@
    "seccion": "Tus finanzas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957719133922.jpg"
+  },
+  {
+   "titulo": "Plus Ultra ultima su cierre y plantea el despido de toda la plantilla, ante las críticas sindicales",
+   "enlace": "https://www.europapress.es/economia/noticia-plus-ultra-ultima-cierre-plantea-despido-toda-plantilla-659-trabajadores-20261127103033.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T09:30:33+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127103033_120.jpg"
   },
   {
    "titulo": "El BCE detecta un \"significativo\" aumento de las expectativas de inflación de los consumidores",
@@ -461,15 +506,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17949603589197.jpg"
   },
   {
-   "titulo": "Sánchez tacha de \"cuento\" las dudas de Feijóo sobre las cuentas: \"No busque excusas para hacer recortes\"",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-tacha-cuento-dudas-feijoo-cuentas-no-busque-excusas-hacer-recortes-20261126234146.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T22:41:46+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126234146_120.jpg"
-  },
-  {
    "titulo": "Sánchez y Colau alertan contra la \"motosierra\" de Vox y las \"tijeras\" del PP",
    "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-colau-alertan-contra-motosierra-vox-tijeras-pp-20261126231502.html",
    "fuente": "Europa Press",
@@ -504,42 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957205326203.jpg"
-  },
-  {
-   "titulo": "Los sindicatos temen un cierre exprés de Plus Ultra ante las dificultades para encontrar un comprador",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/los-sindicatos-temen-un-cierre-expres-de-plus-ultra-ante-las-dificultades-para-encontrar-un-comprador.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T18:42:02+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/YD6DOJOKGFD47HQ7KNHTLCSJ2M.JPG?auth=06d2f213057bc8d9427a23f9c70248027dde145a7a490e86e4b9e3c8621795b6"
-  },
-  {
-   "titulo": "La gran distribución negociará subir hasta un 16% los salarios",
-   "enlace": "https://www.expansion.com/empresas/distribucion/2026/11/26/gran-distribucion-negociara-subir-16-salarios.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T18:34:38+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/12/17944805475584.jpg"
-  },
-  {
-   "titulo": "Nintendo y Sony se preparan para librar una batalla a dos niveles con la IA",
-   "enlace": "https://www.expansion.com/economia/financial-times/2026/11/26/nintendo-sony-preparan-librar-batalla-dos-niveles-ia.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T18:02:20+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957161216842.jpg"
-  },
-  {
-   "titulo": "Un verdadero banquero central",
-   "enlace": "https://www.expansion.com/mercados/2026/11/26/verdadero-banquero-central.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T18:00:14+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957160075287.jpg"
   }
  ],
  "cambio": {
