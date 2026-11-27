@@ -1,6 +1,60 @@
 {
- "actualizado": "2026-11-27T16:13:42+00:00",
+ "actualizado": "2026-11-27T17:20:14+00:00",
  "noticias": [
+  {
+   "titulo": "Muere Sabino García Vallina, fundador y presidente de TSK",
+   "enlace": "https://www.expansion.com/empresas/2026/11/27/muere-sabino-garcia-vallina-fundador-presidente-tsk.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T17:11:02+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957994545975.jpg"
+  },
+  {
+   "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:57:49+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
+  },
+  {
+   "titulo": "Grifols adquiere los centros de donación de Biotest por 220 millones y refuerza su posición en Alemania, Hungría y Chequia",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/grifols-adquiere-los-centros-de-donacion-de-biotest-por-220-millones-y-refuerza-su-posicion-en-alemania-hungria-y-chequia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:55:13+00:00",
+   "seccion": "Internacional",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/ZVJNB6SVUTRGB7IW5OA32QOWSE.jpg?auth=2e5a6d9deb9ade4d25c60abbc164e508992971bcb1f07914c772e4babcd2deda"
+  },
+  {
+   "titulo": "Gráficos para entender el crecimiento de la economía sénior",
+   "enlace": "https://elpais.com/economia/foro-futuro/2026-11-27/graficos-para-entender-el-crecimiento-de-la-economia-senior.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:40:56+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/7C6JULBGFZBWHGU4V6EMMES7EA.JPG?auth=9a916b410e2d1b6574dc2eb6258d5db7ef905448349b3aa0cdc2f5dd62906fdd"
+  },
+  {
+   "titulo": "La Socimi de Messi compra un hotel en el Valle de Arán (Lleida)",
+   "enlace": "https://www.expansion.com/inmobiliario/2026/11/27/socimi-messi-compra-hotel-valle-aran-lleida.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T16:21:04+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957964562282.jpg"
+  },
+  {
+   "titulo": "Alemania apoya el plan de UniCredit para nombrar a Andrea Orcel presidente del consejo de supervisión de Commerzbank",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/alemania-apoya-el-plan-de-unicredit-para-nombrar-a-andrea-orcel-presidente-del-consejo-de-supervision-de-commerzbank.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T16:19:22+00:00",
+   "seccion": "Internacional",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/RZEXJ25YTNLOLNAK4JC7ZIWVDY.jpg?auth=859b0f6c2e7dcc68ebb16b218b34bfaf7a335533c7b95a670d21df3f23b2ee39"
+  },
   {
    "titulo": "El grupo turco Tosyali visitará las plantas de Tubos Reunidos la próxima semana",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-grupo-turco-tosyali-visitara-las-plantas-de-tubos-reunidos-la-proxima-semana.html",
@@ -18,6 +72,24 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/SQG5V2O3GRGTXBMYS5IXNIWQGA.JPG?auth=478018a5d968fb10c9df96be4bb2e62a1fcee67f713cab346dcb2e7b70065a4c"
+  },
+  {
+   "titulo": "El Sindicato de Inquilinas lleva a los tribunales la actuación policial en la manifestación del 11N en Madrid",
+   "enlace": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-sindicato-inquilinas-lleva-tribunales-actuacion-policial-manifestacion-11n-madrid-20261127164830.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T15:48:30+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127164830_120.jpg"
+  },
+  {
+   "titulo": "El Banco de España destaca la \"idoneidad\" de Hernández de Cos para afrontar los retos del BCE",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-banco-espana-destaca-idoneidad-hernandez-cos-afrontar-retos-bce-20261127162656.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T15:26:56+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127162656_120.jpg"
   },
   {
    "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
@@ -137,15 +209,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957764448639.jpg"
   },
   {
-   "titulo": "Grifols adquiere los centros de donación de Biotest por 220 millones y refuerza su posición en Alemania, Hungría y Chequia",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/grifols-adquiere-los-centros-de-donacion-de-biotest-por-220-millones-y-refuerza-su-posicion-en-alemania-hungria-y-chequia.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T10:19:41+00:00",
-   "seccion": "Internacional",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/ZVJNB6SVUTRGB7IW5OA32QOWSE.jpg?auth=2e5a6d9deb9ade4d25c60abbc164e508992971bcb1f07914c772e4babcd2deda"
-  },
-  {
    "titulo": "Jubilación parcial: quién puede cobrar parte de la pensión y seguir trabajando a tiempo parcial, y cuánto se cobra",
    "enlace": "https://www.expansion.com/economia/2026/11/27/jubilacion-parcial-cobrar-parte-pension-seguir-trabajando-parcial-cuanto-cobra.html",
    "fuente": "Expansión",
@@ -171,15 +234,6 @@
    "seccion": "Mercados",
    "subseccion": "Divisas",
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/17/17949131955935.jpg"
-  },
-  {
-   "titulo": "Eléctricas y gran industria cifran en 4.750 millones el coste de los servicios de operación",
-   "enlace": "https://www.europapress.es/economia/energia-00341/noticia-electricas-gran-industria-cifran-4750-millones-coste-servicios-operacion-20261127105903.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T09:59:03+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127105903_120.jpg"
   },
   {
    "titulo": "La cara oculta de los récords del empleo",
@@ -227,15 +281,6 @@
    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127103033_120.jpg"
   },
   {
-   "titulo": "El BCE detecta un \"significativo\" aumento de las expectativas de inflación de los consumidores",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-bce-detecta-significativo-aumento-expectativas-inflacion-consumidores-20261127102148.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T09:21:48+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127102148_120.jpg"
-  },
-  {
    "titulo": "ECB Consumer Expectations Survey results – October 2026",
    "enlace": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
    "fuente": "BCE",
@@ -243,15 +288,6 @@
    "seccion": "Bancos centrales",
    "subseccion": null,
    "imagen": null
-  },
-  {
-   "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T08:54:04+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
   },
   {
    "titulo": "La Seguridad Social destina 28.815 millones a la nómina de las pensiones y la extra de noviembre",
@@ -504,42 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957381348639.png"
-  },
-  {
-   "titulo": "Las grietas del mercado laboral: absentismo desbocado y el artificio del fijo discontinuo",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/grietas-mercado-laboral-absentismo-desbocado-artificio-fijo-discontinuo.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:08:07+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957380735746.jpg"
-  },
-  {
-   "titulo": "El bitcoin se enfrenta hoy a un gran vencimiento de opciones",
-   "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/11/27/bitcoin-enfrenta-hoy-gran-vencimiento-opciones.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T23:44:36+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Divisas",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17949894653296.jpg"
-  },
-  {
-   "titulo": "Los retos del nuevo BCE: combatir la inflación con un ojo en Francia",
-   "enlace": "https://www.expansion.com/mercados/2026/11/27/retos-nuevo-bce-combatir-inflacion-ojo-francia.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T23:42:15+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957365248254.jpg"
-  },
-  {
-   "titulo": "Feijóo y Abascal cercan con el “saqueo” a un Sánchez más agresivo ayudado por Colau",
-   "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/27/feijoo-abascal-cercan-saqueo-sanchez-agresivo-ayudado-colau.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T23:25:19+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957355129429.jpg"
   }
  ],
  "cambio": {
