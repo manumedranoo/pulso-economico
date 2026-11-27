@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-27T19:06:44+00:00",
+ "actualizado": "2026-11-27T20:07:29+00:00",
  "noticias": [
+  {
+   "titulo": "Opinión | Sostenibilidad en la pyme: por qué el talento pesa más que la tecnología o la regulación",
+   "enlace": "https://www.expansion.com/opinion/2026/11/27/opinion-sostenibilidad-pyme-talento-pesa-tecnologia-regulacion.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T19:53:07+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958091713510.jpg"
+  },
+  {
+   "titulo": "Puig compra la marca francesa Parfums de Marly por 1.200 millones de euros",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/puig-compra-la-marca-francesa-parfums-de-marly-por-2000-millones-de-euros.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T19:41:21+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/ACDDQBBKVNH2BDHPR7ILZAHJSA.jpg?auth=a9b9caeab5efe5548dad3a482205f0cbfb7598b84b2eb4e05b3ae224e6255f2e"
+  },
+  {
+   "titulo": "Puig compra el 75% de Parfums de Marly",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/27/puig-compra-75-parfums-marly.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T19:20:23+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958072175217.jpg"
+  },
   {
    "titulo": "Estados Unidos y Europa tienen problemas económicos opuestos",
    "enlace": "https://www.expansion.com/economia/financial-times/2026/11/27/estados-unidos-europa-problemas-economicos-opuestos.html",
@@ -513,33 +540,6 @@
    "seccion": "Mercados",
    "subseccion": "Renta variable",
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412341988.jpg"
-  },
-  {
-   "titulo": "La Fed se prepara para subir los tipos de interés",
-   "enlace": "https://www.expansion.com/mercados/2026/11/27/fed-prepara-subir-tipos-interes.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:36:18+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/18/17950350648584.jpg"
-  },
-  {
-   "titulo": "Microsoft, Alphabet, Meta y Amazon son la ‘tecnología de calidad’ para 2027, según Pictet",
-   "enlace": "https://www.expansion.com/mercados/2026/11/27/microsoft-alphabet-meta-amazon-son-tecnologia-calidad-2027-pictet.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:29:15+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957393413510.jpg"
-  },
-  {
-   "titulo": "La 'fintech' Ebury impulsa en León un centro financiero y tecnológico con 300 empleados",
-   "enlace": "https://www.expansion.com/empresas/banca/2026/11/27/fintech-ebury-impulsa-leon-centro-financiero-tecnologico-300-empleados.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:25:29+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957391193402.jpg"
   }
  ],
  "cambio": {
