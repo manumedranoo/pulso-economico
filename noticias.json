@@ -1,6 +1,42 @@
 {
- "actualizado": "2026-11-27T17:20:14+00:00",
+ "actualizado": "2026-11-27T19:06:44+00:00",
  "noticias": [
+  {
+   "titulo": "Estados Unidos y Europa tienen problemas económicos opuestos",
+   "enlace": "https://www.expansion.com/economia/financial-times/2026/11/27/estados-unidos-europa-problemas-economicos-opuestos.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T18:57:33+00:00",
+   "seccion": "Internacional",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958058479663.jpg"
+  },
+  {
+   "titulo": "El Banco de Inglaterra alerta de hipotecas más altas por el impuesto especial a la banca",
+   "enlace": "https://www.expansion.com/empresas/banca/2026/11/27/banco-inglaterra-alerta-hipotecas-altas-impuesto-especial-banca.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T18:37:40+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958046589000.jpg"
+  },
+  {
+   "titulo": "Una deuda de 87.000 millones de dólares pone a prueba los límites de la fortuna de la familia Ellison",
+   "enlace": "https://www.expansion.com/economia/financial-times/2026/11/27/deuda-87-000-millones-dolares-pone-prueba-limites-fortuna-familia-ellison.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T17:31:28+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958006793776.png"
+  },
+  {
+   "titulo": "López Frade (Suzuki): \"El futuro del automóvil estaba clarísimo, hasta que llegó el futuro\"",
+   "enlace": "https://www.expansion.com/empresas/motor/2026/11/27/lopez-frade-suzuki-futuro-automovil-clarisimo-llego-futuro.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T17:26:15+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958003626794.jpg"
+  },
   {
    "titulo": "Muere Sabino García Vallina, fundador y presidente de TSK",
    "enlace": "https://www.expansion.com/empresas/2026/11/27/muere-sabino-garcia-vallina-fundador-presidente-tsk.html",
@@ -9,6 +45,15 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957994545975.jpg"
+  },
+  {
+   "titulo": "El Ibex 35 sube más de un 2,7% en la semana con el crudo en 95 dólares y la vista puesta en el 29N",
+   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-mas-27-semana-crudo-95-dolares-vista-puesta-29n-20261127181012.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T17:10:12+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127181012_120.jpg"
   },
   {
    "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
@@ -189,15 +234,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957780079663.png"
-  },
-  {
-   "titulo": "El Ibex 35 acelera en la media sesión (+1,45%) y retoma los 19.300 puntos en el Black Friday",
-   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-acelera-media-sesion-145-retoma-19300-puntos-black-friday-20261127120716.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T11:07:16+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127120716_120.jpg"
   },
   {
    "titulo": "Un hombre cambiado: ¿Cómo dirigirá Jensen Huang a Nvidia a partir de ahora?",
@@ -504,42 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957391193402.jpg"
-  },
-  {
-   "titulo": "Seat se alía con Indra para lanzar su desembarco en el sector de Defensa",
-   "enlace": "https://www.expansion.com/empresas/2026/11/27/seat-alia-indra-lanzar-desembarco-sector-defensa.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:19:56+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957387886423.jpg"
-  },
-  {
-   "titulo": "El precio del alquiler de habitaciones se dispara un 45% desde 2018 pese al 'boom' de oferta",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/precio-alquiler-habitaciones-dispara-45-2018-pese-boom-oferta.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:12:24+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957383339774.jpg"
-  },
-  {
-   "titulo": "Prologis ultima la venta de 15 naves en España a BGO y P3",
-   "enlace": "https://www.expansion.com/inmobiliario/2026/11/27/prologis-ultima-venta-15-naves-espana-bgo-p3.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:10:32+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957382233922.jpg"
-  },
-  {
-   "titulo": "Ence se lanza a por 3.000 millones en proyectos para combustible sostenible de aviación",
-   "enlace": "https://www.expansion.com/empresas/2026/11/27/ence-lanza-3-000-millones-proyectos-combustible-sostenible-aviacion.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T00:09:08+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957381348639.png"
   }
  ],
  "cambio": {
