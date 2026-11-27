@@ -1,6 +1,96 @@
 {
- "actualizado": "2026-11-27T07:29:35+00:00",
+ "actualizado": "2026-11-27T09:17:52+00:00",
  "noticias": [
+  {
+   "titulo": "ECB Consumer Expectations Survey results – October 2026",
+   "enlace": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "fuente": "BCE",
+   "fecha": "2026-11-27T09:00:00+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": null
+  },
+  {
+   "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T08:54:04+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
+  },
+  {
+   "titulo": "El Ibex 35 sube un 0,9% en la apertura y supera los 19.200 puntos",
+   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-09-apertura-supera-19200-puntos-20261127093047.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T08:30:47+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127093047_120.jpg"
+  },
+  {
+   "titulo": "La Seguridad Social destina 28.815 millones a la nómina de las pensiones y la extra de noviembre",
+   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-seguridad-social-destina-28815-millones-nomina-ordinaria-pensiones-extra-noviembre-20261127091631.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T08:16:31+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127091631_120.jpg"
+  },
+  {
+   "titulo": "Francia se asoma a la recesión tras una contracción del PIB del 0,2% en el tercer trimestre",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-francia-asoma-recesion-contraccion-pib-02-tercer-trimestre-20261127091248.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T08:12:48+00:00",
+   "seccion": "Macroeconomía",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127091248_120.jpg"
+  },
+  {
+   "titulo": "La inflación se modera al 4,1% en noviembre y las pensiones se revalorizarán un 3,5% en 2027",
+   "enlace": "https://www.expansion.com/economia/2026/11/27/inflacion-modera-4-1-noviembre-pensiones-revalorizaran-3-5-2027.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T08:04:09+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957666499996.jpg"
+  },
+  {
+   "titulo": "Las pensiones contributivas subirán un 3,5% en 2027 y las mínimas y no contributivas entre un 8,8% y un 14,2%",
+   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-pensiones-contributivas-subiran-35-2027-minimas-no-contributivas-88-142-20261127090041.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T08:00:41+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127090041_120.jpg"
+  },
+  {
+   "titulo": "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-modera-ocho-decimas-noviembre-41-abaratamiento-gasolinas-20261127090034.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T08:00:34+00:00",
+   "seccion": "Macroeconomía",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127090034_120_v2.jpg"
+  },
+  {
+   "titulo": "Las pensiones subirán un 3,5% en 2027 y las mínimas y no contributivas hasta un 14,2%",
+   "enlace": "https://www.expansion.com/economia/2026/11/27/pensiones-subiran-3-5-2027-minimas-contributivas-14-2.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T08:00:23+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957664120577.jpg"
+  },
+  {
+   "titulo": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+   "enlace": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T08:00:08+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/X5OIUMOA5RAZHGOFPVNVGCZMLA.jpg?auth=db188a7aba1a177bc231cdd37d4973412ca0075ecb8a851d53df180f409a47f2"
+  },
   {
    "titulo": "SUV grande con 1.000 km de autonomía: el gran filón de las marcas chinas en España",
    "enlace": "https://www.expansion.com/empresas/motor/2026/11/27/suv-grande-1-000-km-autonomia-gran-filon-marcas-chinas-espana.html",
@@ -9,15 +99,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957641348254.jpg"
-  },
-  {
-   "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T07:04:25+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
   },
   {
    "titulo": "El Ibex apunta a una apertura en positivo",
@@ -389,24 +470,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957134146502.jpg"
   },
   {
-   "titulo": "El Ibex 35 sube un 2,27% y retoma los 19.000 puntos sin la referencia de Wall Street",
-   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street-20261126180936.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T17:09:36+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126180936_120.jpg"
-  },
-  {
-   "titulo": "Vox plantea revisar 224.000 millones de gasto público y recortar 112.000 millones con un ajuste del 50%",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-vox-plantea-revisar-224000-millones-gasto-publico-recortar-112000-millones-ajuste-50-20261126180844.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T17:08:44+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126180844_120.jpg"
-  },
-  {
    "titulo": "Repsol y Eni invertirán 1.800 millones en los próximos cinco años en Venezuela",
    "enlace": "https://www.expansion.com/empresas/energia/2026/11/26/repsol-eni-invertiran-1-800-millones-proximos-cinco-anos-venezuela.html",
    "fuente": "Expansión",
@@ -425,15 +488,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934422271705.jpg"
   },
   {
-   "titulo": "Las patronales bancarias ven en De Cos un \"excelente\" presidente del BCE:\"Una gran noticia para el país\"",
-   "enlace": "https://www.europapress.es/economia/finanzas-00340/noticia-ceca-ve-cos-excelente-presidente-bce-perfil-consenso-gran-noticia-pais-20261126173342.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T16:33:42+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126173342_120.jpg"
-  },
-  {
    "titulo": "París y Berlín quieren blindar el presupuesto europeo frente a Marine Le Pen",
    "enlace": "https://www.expansion.com/economia/financial-times/2026/11/26/paris-berlin-quieren-blindar-presupuesto-europeo-frente-marine-le-pen.html",
    "fuente": "Expansión",
@@ -441,15 +495,6 @@
    "seccion": "Internacional",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957101656573.jpg"
-  },
-  {
-   "titulo": "Trump acusa al INE de EEUU de manipular las cifras del PIB del país antes de las elecciones",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-trump-acusa-ine-eeuu-manipular-cifras-pib-pais-antes-elecciones-20261126170646.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T16:06:46+00:00",
-   "seccion": "Macroeconomía",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126170646_120.jpg"
   },
   {
    "titulo": "Logista sube en Bolsa ante una posible 'opa sobrevenida' de Altria",
@@ -495,51 +540,6 @@
    "seccion": "Bancos centrales",
    "subseccion": null,
    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126162635_120.jpg"
-  },
-  {
-   "titulo": "La aviación, entre la irrupción de China y nueva inversión en los aeropuertos españoles",
-   "enlace": "https://www.expansion.com/catalunya/2026/11/26/aviacion-irrupcion-china-nueva-inversion-aeropuertos-espanoles.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T14:28:41+00:00",
-   "seccion": "Internacional",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957033175287.jpg"
-  },
-  {
-   "titulo": "Altria estudia la compra de Imperial Brands, dueña de Altadis",
-   "enlace": "https://www.expansion.com/empresas/distribucion/2026/11/26/altria-estudia-compra-imperial-brands-duena-altadis.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T14:26:30+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957031774610.jpg"
-  },
-  {
-   "titulo": "Sánchez celebra que España \"lidera en Europa como nunca\" tras la elección de Hernández de Cos para el BCE",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-celebra-espana-lidera-europa-nunca-eleccion-hernandez-cos-bce-20261126152625.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-26T14:26:25+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261126152625_120.jpg"
-  },
-  {
-   "titulo": "Cientos de transportistas se manifiestan frente a la Seguridad Social porque aún no ha anticipado su jubilación",
-   "enlace": "https://elpais.com/economia/2026-11-26/cientos-de-transportistas-se-manifiestan-frente-a-la-seguridad-social-porque-aun-no-ha-anticipado-su-jubilacion.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:55:47+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/RQVIHMQQH5BTJJH7QZACQCBMGI.jpg?auth=808d75c5cad258267ef19f4267e0700c994b650fd47bcce326978fdfe8ce6fb2"
-  },
-  {
-   "titulo": "Los directivos españoles, a tres días de las elecciones: más Europa y menos impuestos",
-   "enlace": "https://elpais.com/economia/2026-11-26/los-directivos-espanoles-a-tres-dias-de-las-elecciones-mas-europa-y-menos-impuestos.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:45:44+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/IKQ6VV6KENNE7B777ZFOX5KG64.jpg?auth=c02e3113f8ac3839d90a65c3aa42452fdea41813883ae98e5b462d5a5f0b13f7"
   }
  ],
  "cambio": {
