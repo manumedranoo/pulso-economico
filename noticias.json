@@ -1,6 +1,51 @@
 {
- "actualizado": "2026-11-27T11:00:47+00:00",
+ "actualizado": "2026-11-27T12:04:52+00:00",
  "noticias": [
+  {
+   "titulo": "Grifols compra 47 centros de plasma de Biotest por 220 millones",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/27/grifols-compra-47-centros-plasma-biotest-220-millones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T11:46:58+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957800032154.jpg"
+  },
+  {
+   "titulo": "Santander revoluciona su red de Territoriales con siete nuevos directores",
+   "enlace": "https://www.expansion.com/empresas/banca/2026/11/27/santander-revoluciona-red-territoriales-siete-nuevos-directores.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T11:40:22+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957796168836.jpg"
+  },
+  {
+   "titulo": "Jainaga se protege para evitar una segunda opa sobre Azkoyen",
+   "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/27/jainaga-protege-evitar-segunda-opa-sobre-azkoyen.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T11:30:24+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957790156573.jpg"
+  },
+  {
+   "titulo": "HD Covalco sube el ebitda un 11% tras batir su récord de ventas",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/27/hd-covalco-sube-ebitda-11-batir-record-ventas.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T11:13:30+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957780079663.png"
+  },
+  {
+   "titulo": "El Ibex 35 acelera en la media sesión (+1,45%) y retoma los 19.300 puntos en el Black Friday",
+   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-acelera-media-sesion-145-retoma-19300-puntos-black-friday-20261127120716.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T11:07:16+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127120716_120.jpg"
+  },
   {
    "titulo": "Un hombre cambiado: ¿Cómo dirigirá Jensen Huang a Nvidia a partir de ahora?",
    "enlace": "https://www.expansion.com/economia/financial-times/2026/11/27/hombre-cambiado-dirigira-jensen-huang-nvidia-partir.html",
@@ -92,15 +137,6 @@
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957719133922.jpg"
   },
   {
-   "titulo": "Plus Ultra ultima el cierre y plantea el despido de toda su plantilla de 659 trabajadores",
-   "enlace": "https://www.europapress.es/economia/noticia-plus-ultra-ultima-cierre-plantea-despido-toda-plantilla-659-trabajadores-20261127103033.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T09:30:33+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127103033_120.jpg"
-  },
-  {
    "titulo": "El BCE detecta un \"significativo\" aumento de las expectativas de inflación de los consumidores",
    "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-bce-detecta-significativo-aumento-expectativas-inflacion-consumidores-20261127102148.html",
    "fuente": "Europa Press",
@@ -126,15 +162,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
-  },
-  {
-   "titulo": "El Ibex 35 sube un 0,9% en la apertura y supera los 19.200 puntos",
-   "enlace": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-09-apertura-supera-19200-puntos-20261127093047.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T08:30:47+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127093047_120.jpg"
   },
   {
    "titulo": "La Seguridad Social destina 28.815 millones a la nómina de las pensiones y la extra de noviembre",
@@ -513,33 +540,6 @@
    "seccion": "Mercados",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957160075287.jpg"
-  },
-  {
-   "titulo": "La mitad de los pilotos en España cree que sus aerolíneas no se preocupan por su estado emocional",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/la-mitad-de-los-pilotos-en-espana-cree-que-sus-aerolineas-no-se-preocupan-por-su-estado-emocional.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T17:57:14+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/V3224A4BRBGZLFWDFHPKW77AYA.jpg?auth=8afa992e6d2b0dd036abf4262648d5272fa461bf8c3e50f34eb1cf14011a1ced"
-  },
-  {
-   "titulo": "Amper y Siemens se alían para digitalizar infraestructuras críticas",
-   "enlace": "https://www.expansion.com/empresas/2026/11/26/amper-siemens-alian-digitalizar-infraestructuras-criticas.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T17:34:44+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957144735333.jpg"
-  },
-  {
-   "titulo": "Amancio Ortega compra la mayor tienda de Zara en Lisboa",
-   "enlace": "https://www.expansion.com/inmobiliario/2026/11/26/amancio-ortega-compra-mayor-tienda-zara-lisboa.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-26T17:27:12+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957140137217.png"
   }
  ],
  "cambio": {
