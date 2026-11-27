@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-27T05:24:52+00:00",
+ "actualizado": "2026-11-27T07:29:35+00:00",
  "noticias": [
+  {
+   "titulo": "SUV grande con 1.000 km de autonomía: el gran filón de las marcas chinas en España",
+   "enlace": "https://www.expansion.com/empresas/motor/2026/11/27/suv-grande-1-000-km-autonomia-gran-filon-marcas-chinas-espana.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T07:22:21+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957641348254.jpg"
+  },
+  {
+   "titulo": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T07:04:25+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
+  },
+  {
+   "titulo": "El Ibex apunta a una apertura en positivo",
+   "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/27/ibex-apunta-apertura-positivo.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T07:02:56+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957629613386.jpg"
+  },
   {
    "titulo": "Hernández de Cos, el valor del prestigio",
    "enlace": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
@@ -513,33 +540,6 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/IKQ6VV6KENNE7B777ZFOX5KG64.jpg?auth=c02e3113f8ac3839d90a65c3aa42452fdea41813883ae98e5b462d5a5f0b13f7"
-  },
-  {
-   "titulo": "De cómo Pablo ha ganado por goleada",
-   "enlace": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:40:54+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/EEUDTX4XTJBALCSTIEMUZFFJ34.jpg?auth=29f643ac53fdc46cda9368fd47b212cb6268498b07fedb108618e35bd552262a"
-  },
-  {
-   "titulo": "Altria estudia lanzar una oferta para comprar Imperial Brands, dueña de Altadis y Logista",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-26/altria-estudia-lanzar-una-oferta-para-comprar-imperial-brands-duena-de-altadis.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:38:19+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/PYNH3CKNBNKMBE4MC66G4OSA3Q.jpg?auth=7efddfa63f6104028a0871571eedf5cfeac9bad70b8a62677a529d3548f9a745"
-  },
-  {
-   "titulo": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
-   "enlace": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-26T13:32:35+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/23NF5AG5QRFV3MPZT6T3ZGD6VY.jpg?auth=a6c81c83d18606ae93983cfe411b2b563a94b1b6cb58cf284625949216ce3617"
   }
  ],
  "cambio": {
