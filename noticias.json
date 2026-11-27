@@ -1,6 +1,87 @@
 {
- "actualizado": "2026-11-27T23:05:04+00:00",
+ "actualizado": "2026-11-27T23:58:30+00:00",
  "noticias": [
+  {
+   "titulo": "Choque de dos modelos económicos: lo que se juega España en las urnas",
+   "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/28/choque-dos-modelos-economicos-juega-espana-urnas.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:52:41+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958235587986.jpg"
+  },
+  {
+   "titulo": "Los valores más expuestos a las elecciones del 29-N",
+   "enlace": "https://www.expansion.com/inversion/2026/11/28/valores-expuestos-elecciones-29-n.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:51:19+00:00",
+   "seccion": "Mercados",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958234733922.jpg"
+  },
+  {
+   "titulo": "Las cinco grandes batallas que se dirimen en el frente económico",
+   "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/28/cinco-grandes-batallas-dirimen-frente-economico.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:50:59+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958234587986.jpg"
+  },
+  {
+   "titulo": "El Nasdaq y los ETF tienen la llave del rebote del bitcoin",
+   "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/11/28/nasdaq-etf-llave-rebote-bitcoin.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:36:56+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Divisas",
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958226074610.jpg"
+  },
+  {
+   "titulo": "La IA, en la encrucijada en Bolsa",
+   "enlace": "https://www.expansion.com/mercados/2026/11/28/ia-encrucijada-bolsa.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:36:35+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958225826794.jpg"
+  },
+  {
+   "titulo": "La banca pisa el acelerador en depósitos con tipos hasta el 3,7%",
+   "enlace": "https://www.expansion.com/inversion/2026/11/28/banca-pisa-acelerador-depositos-tipos-3-7.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:35:43+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939710229957.jpg"
+  },
+  {
+   "titulo": "Aena adjudica a Enaire las torres de 21 aeropuertos por 622 millones",
+   "enlace": "https://www.expansion.com/empresas/transporte/2026/11/28/aena-adjudica-enaire-torres-21-aeropuertos-622-millones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:31:08+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958222578688.jpg"
+  },
+  {
+   "titulo": "Corregir el déficit de 813.000 viviendas costará 131.560 millones: el mapa de inversión por autonomías",
+   "enlace": "https://www.expansion.com/economia/2026/11/28/corregir-deficit-813-000-viviendas-costara-131-560-millones-mapa-inversion-autonomias.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:18:29+00:00",
+   "seccion": "Macroeconomía",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958214968311.jpg"
+  },
+  {
+   "titulo": "Golpe de casi 1.000 millones a las empresas por la subida de la cotización máxima",
+   "enlace": "https://www.expansion.com/economia/2026/11/28/golpe-1-000-millones-empresas-subida-cotizacion-maxima.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T23:18:27+00:00",
+   "seccion": "Mercados",
+   "subseccion": "Renta variable",
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958214987289.jpg"
+  },
   {
    "titulo": "Casa 47 lanza una licitación de 157 millones para la gestión de viviendas públicas",
    "enlace": "https://www.expansion.com/inmobiliario/2026/11/27/casa-47-lanza-licitacion-157-millones-gestion-viviendas-publicas.html",
@@ -459,87 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957641348254.jpg"
-  },
-  {
-   "titulo": "El Ibex apunta a una apertura en positivo",
-   "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/27/ibex-apunta-apertura-positivo.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T07:02:56+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957629613386.jpg"
-  },
-  {
-   "titulo": "Hernández de Cos, el valor del prestigio",
-   "enlace": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T05:03:52+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/HWGHGBMOTZCTZI7DF5VTXNFDZE.jpg?auth=56b90678eb880377251adf248ee7ad191d65964e723fc8634db01ceb8675f322"
-  },
-  {
-   "titulo": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
-   "enlace": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:30:01+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/G42PPHMLUVKKVPV37C6Q6IWP34.jpg?auth=26119aa7815d3855eca52656b81756d5f29c41ef27dd93f92193b4e931a709b3"
-  },
-  {
-   "titulo": "Sines: el pueblo de menos de 15.000 habitantes que devorará hasta el 20% del consumo eléctrico de Portugal por los centros de datos",
-   "enlace": "https://elpais.com/economia/negocios/2026-11-27/sines-el-pueblo-que-devorara-el-20-del-consumo-electrico-de-portugal-con-menos-de-15000-habitantes-por-los-centros-de-datos.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:30:01+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/KSVAXZVVCREZDHMJWSZ7XWYPMQ.jpg?auth=71403834ed64256ee396b0dc0ff445a1ac11686a566ab78d251fcefabd0d09e1"
-  },
-  {
-   "titulo": "Trabas legales y dudas sobre su efectividad: ¿se pueden gravar las remesas de los trabajadores extranjeros como propone Vox?",
-   "enlace": "https://elpais.com/economia/2026-11-27/trabas-legales-y-dudas-sobre-su-efectividad-se-pueden-gravar-las-remesas-de-los-trabajadores-extranjeros-como-propone-vox.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:30:01+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/IUHKWLNZ3VHVPHEXHTR76CK2E4.jpg?auth=457a1d3d140cc64614a857d581b848abc9722962762621e6de0adf86e1d4c30a"
-  },
-  {
-   "titulo": "Tengo más de 70 años y una segunda residencia donde paso un tercio del año. ¿Puedo obligar a la comunidad a instalar un ascensor?",
-   "enlace": "https://elpais.com/economia/vivienda/consultorio/2026-11-27/tengo-mas-de-70-anos-y-una-segunda-residencia-donde-paso-un-tercio-del-ano-puedo-obligar-a-la-comunidad-a-instalar-un-ascensor.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:30:00+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/DNGG243VDVAOBKMFKUYDZGNAQ4.jpg?auth=5b263261e2c8ac786e5d143b41dfd5bd8807e10d63e8c9200d11043f568c5038"
-  },
-  {
-   "titulo": "Cuenta atrás para el aluvión de envíos: en las entrañas de un almacén de reparto a las puertas de la campaña navideña",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/cuenta-atras-para-el-aluvion-de-envios-en-las-entranas-de-un-almacen-de-reparto-a-las-puertas-de-la-campana-navidena.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:15:00+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/NQLNVMVYJVFRFASIOPOUKHGHLA.jpg?auth=cd617bfae7fdac5931ce5ea34fc34300cd602c3aeecfa36cb04fb96d72acefda"
-  },
-  {
-   "titulo": "La banca privada del Santander llevará a la Bolsa de Portfolio su segunda socimi",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/la-banca-privada-del-santander-llevara-a-la-bolsa-de-portfolio-su-segunda-socimi.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:15:00+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://imagenes.elpais.com/resizer/v2/QYW6R2RLXBGOJCQQLPMLCPYJCY.jpg?auth=5f85021e963ddd2c467a4cf3b81b9288324b589b37614a609018af42882e309e"
-  },
-  {
-   "titulo": "El Corte Inglés priorizará blindar el grado de inversión en su plan estratégico de cara a la refinanciación",
-   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/el-corte-ingles-priorizara-blindar-el-grado-de-inversion-en-su-plan-estrategico-de-cara-a-la-refinanciacion.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T04:15:00+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/UZVEA6VGORHXVKBLZEGXMO3OOU.png?auth=68f5fa6673f76ecc4b7a42a5257d455c755eb0394ba525bddc51a9549d0694be"
   }
  ],
  "cambio": {
