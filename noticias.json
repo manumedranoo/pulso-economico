@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-27T20:07:29+00:00",
+ "actualizado": "2026-11-27T21:05:27+00:00",
  "noticias": [
+  {
+   "titulo": "Amancio Ortega compra por 100 millones el edificio que alberga Zara en el centro de Lisboa",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-27/amancio-ortega-compra-por-100-millones-el-edificio-que-alberga-zara-en-el-centro-de-lisboa.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-27T20:34:39+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/WVJAPQBQGRHQTNULAUDAND2W2A.jpg?auth=d57afe6c047f8785d5c54f778da957104e3d8d00b0f4d7a1d72db3d3bef2bf12"
+  },
+  {
+   "titulo": "El dueño de Norit y Sanytol dispara el beneficio un 33% y gana 38 millones",
+   "enlace": "https://www.expansion.com/catalunya/2026/11/27/dueno-norit-sanytol-dispara-beneficio-33-gana-38-millones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T20:07:25+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958100337217.jpg"
+  },
   {
    "titulo": "Opinión | Sostenibilidad en la pyme: por qué el talento pesa más que la tecnología o la regulación",
    "enlace": "https://www.expansion.com/opinion/2026/11/27/opinion-sostenibilidad-pyme-talento-pesa-tecnologia-regulacion.html",
@@ -18,6 +36,15 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/ACDDQBBKVNH2BDHPR7ILZAHJSA.jpg?auth=a9b9caeab5efe5548dad3a482205f0cbfb7598b84b2eb4e05b3ae224e6255f2e"
+  },
+  {
+   "titulo": "Puig alcanza un acuerdo para adquirir el 75% de Marly e Initio",
+   "enlace": "https://www.europapress.es/economia/noticia-puig-alcanza-acuerdo-adquirir-75-marly-initio-20261127202925.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-27T19:29:25+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127202925_120.jpg"
   },
   {
    "titulo": "Puig compra el 75% de Parfums de Marly",
@@ -144,15 +171,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/SQG5V2O3GRGTXBMYS5IXNIWQGA.JPG?auth=478018a5d968fb10c9df96be4bb2e62a1fcee67f713cab346dcb2e7b70065a4c"
-  },
-  {
-   "titulo": "El Sindicato de Inquilinas lleva a los tribunales la actuación policial en la manifestación del 11N en Madrid",
-   "enlace": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-sindicato-inquilinas-lleva-tribunales-actuacion-policial-manifestacion-11n-madrid-20261127164830.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T15:48:30+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127164830_120.jpg"
   },
   {
    "titulo": "El Banco de España destaca la \"idoneidad\" de Hernández de Cos para afrontar los retos del BCE",
@@ -522,24 +540,6 @@
    "seccion": "Mercados",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412694824.jpg"
-  },
-  {
-   "titulo": "La nueva estrategia de Indra despeja un recorrido alcista superior al 30%",
-   "enlace": "https://www.expansion.com/inversion/2026/11/27/nueva-estrategia-indra-despeja-recorrido-alcista-superior-30.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T01:00:50+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412484130.jpg"
-  },
-  {
-   "titulo": "¿Habrá correctivo para el Ibex si Pedro Sánchez gana las elecciones?",
-   "enlace": "https://www.expansion.com/mercados/2026/11/27/habra-correctivo-ibex-pedro-sanchez-gana-elecciones.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T01:00:40+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412341988.jpg"
   }
  ],
  "cambio": {
