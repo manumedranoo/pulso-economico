@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-27T22:04:25+00:00",
+ "actualizado": "2026-11-27T23:05:04+00:00",
  "noticias": [
+  {
+   "titulo": "Casa 47 lanza una licitación de 157 millones para la gestión de viviendas públicas",
+   "enlace": "https://www.expansion.com/inmobiliario/2026/11/27/casa-47-lanza-licitacion-157-millones-gestion-viviendas-publicas.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T22:56:11+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958201645219.jpg"
+  },
+  {
+   "titulo": "Así quedan las pensiones en 2027 con la revalorización del 3,5%",
+   "enlace": "https://www.expansion.com/economia/2026/11/27/asi-quedan-pensiones-2027-revalorizacion-3-5.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T22:55:29+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958201132154.jpg"
+  },
+  {
+   "titulo": "Comprar cuando nadie quiere hacerlo",
+   "enlace": "https://www.expansion.com/mercados/2026/11/27/comprar-nadie-quiere-hacerlo.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-27T22:47:05+00:00",
+   "seccion": "Mercados",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958196159983.jpg"
+  },
   {
    "titulo": "Amancio Ortega compra por 100 millones el edificio que alberga Zara en el centro de Lisboa",
    "enlace": "https://cincodias.elpais.com/companias/2026-11-27/amancio-ortega-compra-por-100-millones-el-edificio-que-alberga-zara-en-el-centro-de-lisboa.html",
@@ -513,33 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/UZVEA6VGORHXVKBLZEGXMO3OOU.png?auth=68f5fa6673f76ecc4b7a42a5257d455c755eb0394ba525bddc51a9549d0694be"
-  },
-  {
-   "titulo": "El cisne del Ibex que vuela alto este año y encandila a los expertos",
-   "enlace": "https://www.expansion.com/inversion/2026/11/27/cisne-ibex-vuela-alto-ano-encandila-expertos.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T01:12:34+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957419433922.jpg"
-  },
-  {
-   "titulo": "Los valores más firmes del Ibex en plenas turbulencias",
-   "enlace": "https://www.expansion.com/mercados/2026/11/27/valores-firmes-ibex-plenas-turbulencias.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T01:01:28+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412794658.jpg"
-  },
-  {
-   "titulo": "Así es T. Rowe Price, la gestora pionera en el estilo de inversión en crecimiento",
-   "enlace": "https://www.expansion.com/mercados/fondos/2026/11/27/asi-t-rowe-price-gestora-pionera-estilo-inversion-crecimiento.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T01:01:14+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957412694824.jpg"
   }
  ],
  "cambio": {
