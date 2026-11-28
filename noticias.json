@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-28T07:24:43+00:00",
+ "actualizado": "2026-11-28T08:59:27+00:00",
  "noticias": [
+  {
+   "titulo": "Boris Vujčić: Interview with Kurier",
+   "enlace": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "fuente": "BCE",
+   "fecha": "2026-11-28T08:00:00+00:00",
+   "seccion": "Bancos centrales",
+   "subseccion": null,
+   "imagen": null
+  },
   {
    "titulo": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
    "enlace": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html",
@@ -47,15 +56,6 @@
    "imagen": "https://imagenes.elpais.com/resizer/v2/C46OAXQH3FH7ZL6J4B7RUCI4R4.JPG?auth=c37cff4894ba9a43370caa7e41171494444e288af60ccaedb7a1edfbb2365085"
   },
   {
-   "titulo": "Daniel Goleman, psicólogo: “Hay empresas que toleran a los jefes tóxicos. Ascienden a las personas equivocadas”",
-   "enlace": "https://elpais.com/economia/negocios/2026-11-28/daniel-goleman-psicologo-hay-empresas-que-toleran-a-los-jefes-toxicos-ascienden-a-las-personas-equivocadas.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-28T04:30:00+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/AZ6Q2JIWZVCCZGR4PYV2CR6QRA.jpg?auth=511aa354ebc2be0f9e9d8afcc555ceae91a09948b871a5a316bec8640c275b44"
-  },
-  {
    "titulo": "De Lamborghini a Dolce & Gabbana o el Ritz: por qué España se ha convertido en la nueva meca de las residencias de marca",
    "enlace": "https://elpais.com/economia/negocios/2026-11-28/de-lamborghini-a-dolce-gabbana-o-el-ritz-por-que-espana-se-ha-convertido-en-la-nueva-meca-de-las-residencias-de-marca.html",
    "fuente": "Cinco Días",
@@ -63,6 +63,15 @@
    "seccion": "España",
    "subseccion": null,
    "imagen": "https://imagenes.elpais.com/resizer/v2/LUI4RCSOWVC6JMI4NVOCQ2T4MY.jpg?auth=933292089291b8b2b60b5f9c2b9dcc1bf598bb3266f541a12d775653e484e247"
+  },
+  {
+   "titulo": "Daniel Goleman, psicólogo: “Hay empresas que toleran a los jefes tóxicos. Ascienden a las personas equivocadas”",
+   "enlace": "https://elpais.com/economia/negocios/2026-11-28/daniel-goleman-psicologo-hay-empresas-que-toleran-a-los-jefes-toxicos-ascienden-a-las-personas-equivocadas.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:00+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/AZ6Q2JIWZVCCZGR4PYV2CR6QRA.jpg?auth=511aa354ebc2be0f9e9d8afcc555ceae91a09948b871a5a316bec8640c275b44"
   },
   {
    "titulo": "Plus Ultra busca un comprador entre pequeñas aerolíneas para evitar un largo proceso ante Competencia",
@@ -531,15 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957780079663.png"
-  },
-  {
-   "titulo": "Un hombre cambiado: ¿Cómo dirigirá Jensen Huang a Nvidia a partir de ahora?",
-   "enlace": "https://www.expansion.com/economia/financial-times/2026/11/27/hombre-cambiado-dirigira-jensen-huang-nvidia-partir.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T10:47:32+00:00",
-   "seccion": "Mercados",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957764448639.jpg"
   }
  ],
  "cambio": {
