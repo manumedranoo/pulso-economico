@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-27T23:58:30+00:00",
+ "actualizado": "2026-11-28T01:24:35+00:00",
  "noticias": [
+  {
+   "titulo": "KKR acuerda con OTPP la compra de Logoplaste por 1.200 millones",
+   "enlace": "https://www.expansion.com/empresas/2026/11/28/kkr-acuerda-otpp-compra-logoplaste-1-200-millones.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-28T00:11:36+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958246828740.png"
+  },
+  {
+   "titulo": "Tesla y BYD apuntan a más de 40.000 coches eléctricos en España este año",
+   "enlace": "https://www.expansion.com/empresas/motor/2026/11/28/tesla-byd-apuntan-40-000-coches-electricos-espana-ano.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-28T00:10:03+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958245920791.jpg"
+  },
+  {
+   "titulo": "Henry Samueli, el inventor multimillonario tras Broadcom",
+   "enlace": "https://www.expansion.com/tecnologia/2026/11/28/henry-samueli-inventor-multimillonario-broadcom.html",
+   "fuente": "Expansión",
+   "fecha": "2026-11-28T00:07:47+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/28/17958244578688.jpg"
+  },
   {
    "titulo": "Choque de dos modelos económicos: lo que se juega España en las urnas",
    "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/28/choque-dos-modelos-economicos-juega-espana-urnas.html",
@@ -513,33 +540,6 @@
    "seccion": "Macroeconomía",
    "subseccion": null,
    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127090034_120_v2.jpg"
-  },
-  {
-   "titulo": "Las pensiones subirán un 3,5% en 2027 y las mínimas y no contributivas hasta un 14,2%",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/pensiones-subiran-3-5-2027-minimas-contributivas-14-2.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T08:00:23+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957664120577.jpg"
-  },
-  {
-   "titulo": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
-   "enlace": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
-   "fuente": "Cinco Días",
-   "fecha": "2026-11-27T08:00:08+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://imagenes.elpais.com/resizer/v2/X5OIUMOA5RAZHGOFPVNVGCZMLA.jpg?auth=db188a7aba1a177bc231cdd37d4973412ca0075ecb8a851d53df180f409a47f2"
-  },
-  {
-   "titulo": "SUV grande con 1.000 km de autonomía: el gran filón de las marcas chinas en España",
-   "enlace": "https://www.expansion.com/empresas/motor/2026/11/27/suv-grande-1-000-km-autonomia-gran-filon-marcas-chinas-espana.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T07:22:21+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957641348254.jpg"
   }
  ],
  "cambio": {
