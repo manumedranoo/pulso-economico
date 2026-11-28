@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T08:59:27+00:00",
+ "actualizado": "2026-11-28T09:58:48+00:00",
  "noticias": [
   {
    "titulo": "Boris Vujčić: Interview with Kurier",
@@ -9,6 +9,15 @@
    "seccion": "Bancos centrales",
    "subseccion": null,
    "imagen": null
+  },
+  {
+   "titulo": "Propuestas económicas 29N: qué propone cada partido sobre vivienda, impuestos, pensiones, empleo, energía y turismo",
+   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-propuestas-economicas-29n-propone-cada-partido-vivienda-impuestos-pensiones-empleo-energia-turismo-20261128085954.html",
+   "fuente": "Europa Press",
+   "fecha": "2026-11-28T07:59:54+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261128085954_120.jpg"
   },
   {
    "titulo": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
@@ -531,15 +540,6 @@
    "seccion": "Empresas",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957790156573.jpg"
-  },
-  {
-   "titulo": "HD Covalco sube el ebitda un 11% tras batir su récord de ventas",
-   "enlace": "https://www.expansion.com/catalunya/2026/11/27/hd-covalco-sube-ebitda-11-batir-record-ventas.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T11:13:30+00:00",
-   "seccion": "Empresas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957780079663.png"
   }
  ],
  "cambio": {
