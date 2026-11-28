@@ -1,6 +1,123 @@
 {
- "actualizado": "2026-11-28T04:04:01+00:00",
+ "actualizado": "2026-11-28T05:09:36+00:00",
  "noticias": [
+  {
+   "titulo": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
+   "enlace": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:45:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/VGCAHZ5IJBNIJK7P2MFN7POSVM.jpg?auth=25b7119b6c71199ae74938b187790f0973bc636fa2f77944f6a6715aaf9d9275"
+  },
+  {
+   "titulo": "Las causas del milagro, y del malestar",
+   "enlace": "https://elpais.com/economia/2026-11-28/las-causas-del-milagro-y-del-malestar.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:01+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/I57DSFK4C5EFPJ53GRRUDU553Q.jpg?auth=a0e322cbcfd8eed076012223a8ff682ad28c2467778c832f2e546dc70dca54ef"
+  },
+  {
+   "titulo": "Rodrigo Valdés, director de Asuntos Fiscales del FMI: “La situación fiscal en España requiere atención a las pensiones”",
+   "enlace": "https://elpais.com/economia/2026-11-28/rodrigo-valdes-director-de-asuntos-fiscales-del-fmi-la-situacion-fiscal-en-espana-requiere-atencion-a-las-pensiones.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:01+00:00",
+   "seccion": "Tus finanzas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/BUQLHFN5F5FDZIIY5QGMJCUCHY.jpg?auth=2c9eceea7d8d2331483be90850ef55a86900c6e1b9a707a32cf02512760b1af9"
+  },
+  {
+   "titulo": "Desatascar el suelo, una de las claves contra la crisis de la vivienda",
+   "enlace": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:01+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/X5B5TO7AEFOR5PUC6VUZEXJGUE.jpg?auth=a3532fe0b5af2105908d5699d2119c4dcf986e17d0cb5da344e503129a81d19d"
+  },
+  {
+   "titulo": "Economía prepara una herramienta para que empresas y autónomos se relacionen con la Administración a través de la IA",
+   "enlace": "https://elpais.com/economia/2026-11-28/economia-prepara-una-herramienta-para-que-empresas-y-autonomos-se-relacionen-con-la-administracion-a-traves-de-la-ia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:01+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/C46OAXQH3FH7ZL6J4B7RUCI4R4.JPG?auth=c37cff4894ba9a43370caa7e41171494444e288af60ccaedb7a1edfbb2365085"
+  },
+  {
+   "titulo": "De Lamborghini a Dolce & Gabbana o el Ritz: por qué España se ha convertido en la nueva meca de las residencias de marca",
+   "enlace": "https://elpais.com/economia/negocios/2026-11-28/de-lamborghini-a-dolce-gabbana-o-el-ritz-por-que-espana-se-ha-convertido-en-la-nueva-meca-de-las-residencias-de-marca.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:00+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/LUI4RCSOWVC6JMI4NVOCQ2T4MY.jpg?auth=933292089291b8b2b60b5f9c2b9dcc1bf598bb3266f541a12d775653e484e247"
+  },
+  {
+   "titulo": "Daniel Goleman, psicólogo: “Hay empresas que toleran a los jefes tóxicos. Ascienden a las personas equivocadas”",
+   "enlace": "https://elpais.com/economia/negocios/2026-11-28/daniel-goleman-psicologo-hay-empresas-que-toleran-a-los-jefes-toxicos-ascienden-a-las-personas-equivocadas.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:30:00+00:00",
+   "seccion": "España",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/AZ6Q2JIWZVCCZGR4PYV2CR6QRA.jpg?auth=511aa354ebc2be0f9e9d8afcc555ceae91a09948b871a5a316bec8640c275b44"
+  },
+  {
+   "titulo": "Plus Ultra busca un comprador entre pequeñas aerolíneas para evitar un largo proceso ante Competencia",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/plus-ultra-busca-un-comprador-entre-pequenas-aerolineas-para-evitar-un-largo-proceso-ante-competencia.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/4RLCG7HGEVHTXKJAY5SBNRXSDI.JPG?auth=aeb711df055526079d5a99647e0ae57d113ed29185bb9224cec59de69abb2949"
+  },
+  {
+   "titulo": "Economía podrá bloquear cuentas y transacciones bancarias si tiene sospechas de blanqueo de capitales",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/economia-podra-bloquear-cuentas-y-transacciones-bancarias-si-tiene-sospechas-de-blanqueo-de-capitales.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/54ZCKXKCHRJVBPAGFUB2TQCYKA.jpg?auth=f6158a8a77dabab200e8ab63218f4c0b1abc04420b8d05c09623b6f4e691a25e"
+  },
+  {
+   "titulo": "La inflación y las elecciones marcan una campaña de Navidad de optimismo moderado en el comercio",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/la-inflacion-y-las-elecciones-marcan-una-campana-de-navidad-de-optimismo-moderado-en-el-comercio.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Macroeconomía",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/VXU5WSHZLNIRVLLRLXT2XWIDWA.jpg?auth=fc22444ed2142d53c9d4ba6cd71dd65b42e356c03a26ffb37b970528f971b91c"
+  },
+  {
+   "titulo": "Taco Bell España tira de deuda privada para crecer tras dar entrada a Yum! y a los Cortina Koplowitz",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/taco-bell-espana-tira-de-deuda-privada-para-crecer-tras-dar-entrada-a-yum-y-a-los-cortina-koplowitz.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/BSFA7VALXJDZFDS47CSL4VRMBU.jpg?auth=867c531ae47c60f37abc7d6fb2aa584a87b14ffdbec29c66a9d22daec6c5df9b"
+  },
+  {
+   "titulo": "Expedia se lanza a crecer en Europa con la compra de Kiwi ante el veto de la UE a Booking",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/expedia-se-lanza-a-crecer-en-europa-con-la-compra-de-kiwi-ante-el-veto-de-la-ue-a-booking.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/IPQT7QHMSRJIXP5HO5DN5B2E2Y.jpg?auth=f4885ecc68bb331a6bc3715238d59e474b06b8ba82c624d003034d2fcd2aff13"
+  },
+  {
+   "titulo": "El negocio de los gimnasios sigue al alza, y seis de cada diez cadenas prevé elevar sus precios",
+   "enlace": "https://cincodias.elpais.com/companias/2026-11-28/el-negocio-de-los-gimnasios-sigue-al-alza-y-seis-de-cada-diez-cadenas-preve-elevar-sus-precios.html",
+   "fuente": "Cinco Días",
+   "fecha": "2026-11-28T04:15:00+00:00",
+   "seccion": "Empresas",
+   "subseccion": null,
+   "imagen": "https://imagenes.elpais.com/resizer/v2/VG4WVRC46JHR5BYCPP6MVC6BQM.png?auth=c96ba9f6df38856965903a803eb3555e578f540ff35811e98fb13260bc601247"
+  },
   {
    "titulo": "KKR acuerda con OTPP la compra de Logoplaste por 1.200 millones",
    "enlace": "https://www.expansion.com/empresas/2026/11/28/kkr-acuerda-otpp-compra-logoplaste-1-200-millones.html",
@@ -423,123 +540,6 @@
    "seccion": "Mercados",
    "subseccion": null,
    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957764448639.jpg"
-  },
-  {
-   "titulo": "Jubilación parcial: quién puede cobrar parte de la pensión y seguir trabajando a tiempo parcial, y cuánto se cobra",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/jubilacion-parcial-cobrar-parte-pension-seguir-trabajando-parcial-cuanto-cobra.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T10:09:36+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957741687986.jpg"
-  },
-  {
-   "titulo": "Cuánto cobra de pensión quien se jubila en 2027 con 15, 25 o 35 años cotizados en España",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/cuanto-cobra-pension-jubila-2027-15-25-35-anos-cotizados-espana.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T10:08:41+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957741143545.jpg"
-  },
-  {
-   "titulo": "El precio del Bitcoin hoy, 27 de noviembre: el Bitcoin asciende de los 62.000 dólares",
-   "enlace": "https://www.expansion.com/mercados/bitcoin/2026/11/27/precio-bitcoin-hoy-27-noviembre-bitcoin-asciende-62-000-dolares.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T10:03:33+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Divisas",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/17/17949131955935.jpg"
-  },
-  {
-   "titulo": "La cara oculta de los récords del empleo",
-   "enlace": "https://www.expansion.com/opinion/2026/11/27/cara-oculta-records-empleo.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T09:52:58+00:00",
-   "seccion": "Macroeconomía",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957731635746.jpg"
-  },
-  {
-   "titulo": "El oso de Wall Street cierra sus apuestas bajistas contra el Nasdaq",
-   "enlace": "https://www.expansion.com/inversion/2026/11/27/oso-wall-street-cierra-apuestas-bajistas-nasdaq.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T09:50:18+00:00",
-   "seccion": "Mercados",
-   "subseccion": "Renta variable",
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957730132154.jpg"
-  },
-  {
-   "titulo": "Francia se asoma a la recesión tras una contracción del PIB del 0,2% en el tercer trimestre",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/francia-asoma-recesion-contraccion-pib-0-2-tercer-trimestre.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T09:35:00+00:00",
-   "seccion": "Macroeconomía",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957720889000.jpg"
-  },
-  {
-   "titulo": "¿Cuánto suben las pensiones en 2027?: los jubilados cobrarán 852 euros más",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/cuanto-suben-pensiones-2027-jubilados-cobraran-852-euros.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T09:32:03+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957719133922.jpg"
-  },
-  {
-   "titulo": "Plus Ultra ultima su cierre y plantea el despido de toda la plantilla, ante las críticas sindicales",
-   "enlace": "https://www.europapress.es/economia/noticia-plus-ultra-ultima-cierre-plantea-despido-toda-plantilla-659-trabajadores-20261127103033.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T09:30:33+00:00",
-   "seccion": "España",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127103033_120.jpg"
-  },
-  {
-   "titulo": "ECB Consumer Expectations Survey results – October 2026",
-   "enlace": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-   "fuente": "BCE",
-   "fecha": "2026-11-27T09:00:00+00:00",
-   "seccion": "Bancos centrales",
-   "subseccion": null,
-   "imagen": null
-  },
-  {
-   "titulo": "La Seguridad Social destina 28.815 millones a la nómina de las pensiones y la extra de noviembre",
-   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-seguridad-social-destina-28815-millones-nomina-ordinaria-pensiones-extra-noviembre-20261127091631.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T08:16:31+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127091631_120_v2.jpg"
-  },
-  {
-   "titulo": "La inflación se modera al 4,1% en noviembre y las pensiones se revalorizarán un 3,5% en 2027",
-   "enlace": "https://www.expansion.com/economia/2026/11/27/inflacion-modera-4-1-noviembre-pensiones-revalorizaran-3-5-2027.html",
-   "fuente": "Expansión",
-   "fecha": "2026-11-27T08:04:09+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957666499996.jpg"
-  },
-  {
-   "titulo": "Las pensiones contributivas subirán un 3,5% en 2027 y las mínimas y no contributivas entre un 8,8% y un 14,2%",
-   "enlace": "https://www.europapress.es/economia/laboral-00346/noticia-pensiones-contributivas-subiran-35-2027-minimas-no-contributivas-88-142-20261127090041.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T08:00:41+00:00",
-   "seccion": "Tus finanzas",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127090041_120.jpg"
-  },
-  {
-   "titulo": "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas",
-   "enlace": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-modera-ocho-decimas-noviembre-41-abaratamiento-gasolinas-20261127090034.html",
-   "fuente": "Europa Press",
-   "fecha": "2026-11-27T08:00:34+00:00",
-   "seccion": "Macroeconomía",
-   "subseccion": null,
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261127090034_120_v2.jpg"
   }
  ],
  "cambio": {
